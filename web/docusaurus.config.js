@@ -116,8 +116,35 @@ const config = {
       metadata: [
         {
           name: "keywords",
-          content: `${siteConfig.nom}, ${siteConfig.description}, informatique, technique, cégep, cegep, édouard-montpetit, edouard-montpetit, édouard montpetit, edouard montpetit`,
+          content: `${siteConfig.nom}, ${siteConfig.description},
+            4A3, 360-4A3, cem, sciences de la nature, projet d'intégration, projet integration, programmation,
+            python, cours programmation cégep, cégep Édouard-Montpetit, cegep Edouard Montpetit,
+            informatique, cégep, cegep, édouard-montpetit, edouard-montpetit, édouard montpetit, edouard montpetit`,
         },
+        {
+            name: "description",
+            content: siteConfig.description,
+        },
+        {
+            property: "og:title",
+            content: siteConfig.nom,
+        },
+        {
+            property: "og:description",
+            content: siteConfig.description,
+        },
+        {
+            property: "og:type",
+            content: "website",
+        },
+        {
+            property: "og:image",
+            content: "https://info.cegepmontpetit.ca/360-4A3/img/logo.svg"
+        },
+        {
+            property: "og:url",
+            content: "https://info.cegepmontpetit.ca/360-4A3/"
+        }
       ],
     }),
 };
