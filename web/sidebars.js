@@ -9,7 +9,7 @@ const sidebars = {
       id: "cours/semaine1", // Doit matcher le nom du document qui est dans docs/01-cours/. Les chiffres au début (ex : 01-) sont ignorés.
       customProps: { // Attention, il faut recompiler à chaque modification dans sidebar.js pour que les modifications s'appliquent.
         calendrier: {
-          "Horaire": [
+          "Calendrier": [
             {"1010": "2026-01-22"}  // Date du cours pour le groupe 1010 du le Prof 1
           ]
         },
@@ -22,7 +22,7 @@ const sidebars = {
       id: "cours/semaine2",
       customProps: {
         calendrier: {
-          "Horaire": [
+          "Calendrier": [
             {"1010": "2026-01-29"}
           ]
         }
@@ -34,7 +34,7 @@ const sidebars = {
       id: "cours/semaine3",
       customProps: {
         calendrier: {
-          "Horaire": [
+          "Calendrier": [
             {"1010": "2026-02-05"}
           ]
         }
@@ -46,7 +46,7 @@ const sidebars = {
       id: "cours/semaine4",
       customProps: {
         calendrier: {
-          "Horaire": [
+          "Calendrier": [
             {"1010": "2026-02-12"}
           ]
         }
@@ -58,7 +58,7 @@ const sidebars = {
       id: "cours/semaine5",
       customProps: {
         calendrier: {
-          "Horaire": [
+          "Calendrier": [
             {"1010": "2026-02-19"}
           ]
         }
@@ -70,7 +70,7 @@ const sidebars = {
       id: "cours/semaine6",
       customProps: {
         calendrier: {
-          "Horaire": [
+          "Calendrier": [
             {"1010": "2026-02-26"}
           ]
         }
@@ -82,7 +82,7 @@ const sidebars = {
       id: "cours/semaine7",
       customProps: {
         calendrier: {
-          "Horaire": [
+          "Calendrier": [
             {"1010": "2026-03-05"}
           ]
         }
@@ -94,7 +94,7 @@ const sidebars = {
       id: "cours/semaine8",
       customProps: {
         calendrier: {
-          "Horaire": [
+          "Calendrier": [
             {"1010": "2026-03-12"}
           ]
         }
@@ -106,7 +106,7 @@ const sidebars = {
       id: "cours/semaine9",
       customProps: {
         calendrier: {
-          "Horaire": [
+          "Calendrier": [
             {"1010": "2026-03-26"}
           ]
         }
@@ -118,7 +118,7 @@ const sidebars = {
       id: "cours/semaine10",
       customProps: {
         calendrier: {
-          "Horaire": [
+          "Calendrier": [
             {"1010": "2026-04-09"}
           ]
         }
@@ -130,7 +130,7 @@ const sidebars = {
       id: "cours/semaine11",
       customProps: {
         calendrier: {
-          "Horaire": [
+          "Calendrier": [
             {"1010": "2026-04-16"}
           ]
         }
@@ -142,7 +142,7 @@ const sidebars = {
       id: "cours/semaine12",
       customProps: {
         calendrier: {
-          "Horaire": [
+          "Calendrier": [
             {"1010": "2026-04-23"}
           ]
         }
@@ -154,7 +154,7 @@ const sidebars = {
       id: "cours/semaine13",
       customProps: {
         calendrier: {
-          "Horaire": [
+          "Calendrier": [
             {"1010": "2026-04-30"}
           ]
         }
@@ -166,7 +166,7 @@ const sidebars = {
       id: "cours/semaine14",
       customProps: {
         calendrier: {
-          "Horaire": [
+          "Calendrier": [
             {"1010": "2026-05-07"}
           ]
         }
@@ -179,7 +179,7 @@ const sidebars = {
       id: "cours/semaine15",
       customProps: {
         calendrier: {
-          "Horaire": [
+          "Calendrier": [
             {"1010": "2026-05-21"}
           ]
         }
