@@ -10,7 +10,7 @@ const sidebars = {
       customProps: { // Attention, il faut recompiler à chaque modification dans sidebar.js pour que les modifications s'appliquent.
         calendrier: {
           "Horaire": [
-            {"1010": "2026-01-21"}  // Date du cours pour le groupe 1010 du le Prof 1
+            {"1010": "2026-01-22"}  // Date du cours pour le groupe 1010 du le Prof 1
           ]
         },
         tooltip: "visible" // Valeurs possibles visible ou cache, valeur par défaut "visible"
@@ -23,92 +23,151 @@ const sidebars = {
       customProps: {
         calendrier: {
           "Horaire": [
-            {"1010": "2026-01-21"}
+            {"1010": "2026-01-29"}
           ]
         }
       }
     },
     {
       type: "doc",
-      label: "3 - Rencontre",
-      id: "cours/rencontre3.1",
+      label: "3 - Semaine 3",
+      id: "cours/semaine3",
       customProps: {
         calendrier: {
           "Horaire": [
-            {"1010": "2026-01-21"}
+            {"1010": "2026-02-05"}
           ]
         }
       }
     },
     {
       type: "doc",
-      label: "4 - Rencontre",
-      id: "cours/rencontre4.1",
+      label: "4 - Semaine 4",
+      id: "cours/semaine4",
       customProps: {
         calendrier: {
           "Horaire": [
-            {"1010": "2026-01-21"}
+            {"1010": "2026-02-12"}
           ]
         }
       }
     },
     {
       type: "doc",
-      label: "5 - Rencontre",
-      id: "cours/rencontre5.1",
+      label: "5 - Semaine 5",
+      id: "cours/semaine5",
       customProps: {
         calendrier: {
           "Horaire": [
-            {"1010": "2026-01-21"}
+            {"1010": "2026-02-19"}
           ]
         }
       }
     },
     {
       type: "doc",
-      label: "6 - Rencontre",
-      id: "cours/rencontre6.1",
+      label: "6 - Semaine 6",
+      id: "cours/semaine6",
       customProps: {
         calendrier: {
           "Horaire": [
-            {"1010": "2026-01-21"}
+            {"1010": "2026-02-26"}
           ]
         }
       }
     },
     {
       type: "doc",
-      label: "7 - Rencontre",
-      id: "cours/rencontre7.1",
+      label: "7 - Semaine 7",
+      id: "cours/semaine7",
       customProps: {
         calendrier: {
           "Horaire": [
-            {"1010": "2026-01-21"}
-          ]
-        }
-      },
-      "className": "examen"
-    },
-    {
-      type: "doc",
-      label: "8 - Rencontre",
-      id: "cours/rencontre8.1",
-      customProps: {
-        calendrier: {
-          "Horaire": [
-            {"1010": "2026-01-21"}
+            {"1010": "2026-03-05"}
           ]
         }
       }
     },
     {
       type: "doc",
-      label: "9 - Rencontre",
-      id: "cours/rencontre9.1",
+      label: "8 - Semaine 8",
+      id: "cours/semaine8",
       customProps: {
         calendrier: {
           "Horaire": [
-            {"1010": "2026-01-21"}
+            {"1010": "2026-03-12"}
+          ]
+        }
+      }
+    },
+    {
+      type: "doc",
+      label: "9 - Semaine 9",
+      id: "cours/semaine9",
+      customProps: {
+        calendrier: {
+          "Horaire": [
+            {"1010": "2026-03-26"}
+          ]
+        }
+      }
+    },
+    {
+      type: "doc",
+      label: "10 - Semaine 10",
+      id: "cours/semaine10",
+      customProps: {
+        calendrier: {
+          "Horaire": [
+            {"1010": "2026-04-09"}
+          ]
+        }
+      }
+    },
+    {
+      type: "doc",
+      label: "11 - Semaine 11",
+      id: "cours/semaine11",
+      customProps: {
+        calendrier: {
+          "Horaire": [
+            {"1010": "2026-04-16"}
+          ]
+        }
+      }
+    },
+    {
+      type: "doc",
+      label: "12 - Semaine 12",
+      id: "cours/semaine12",
+      customProps: {
+        calendrier: {
+          "Horaire": [
+            {"1010": "2026-04-23"}
+          ]
+        }
+      }
+    },
+    {
+      type: "doc",
+      label: "13 - Semaine 13",
+      id: "cours/semaine13",
+      customProps: {
+        calendrier: {
+          "Horaire": [
+            {"1010": "2026-04-30"}
+          ]
+        }
+      }
+    },
+    {
+      type: "doc",
+      label: "14 - Semaine 14",
+      id: "cours/semaine14",
+      customProps: {
+        calendrier: {
+          "Horaire": [
+            {"1010": "2026-05-07"}
           ]
         }
       },
@@ -116,76 +175,16 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "10 - Rencontre",
-      id: "cours/rencontre10.1",
+      label: "15 - Semaine 15",
+      id: "cours/semaine15",
       customProps: {
         calendrier: {
           "Horaire": [
-            {"1010": "2026-01-21"}
-          ]
-        }
-      }
-    },
-    {
-      type: "doc",
-      label: "11 - Rencontre",
-      id: "cours/rencontre11.1",
-      customProps: {
-        calendrier: {
-          "Horaire": [
-            {"1010": "2026-01-21"}
-          ]
-        }
-      }
-    },
-    {
-      type: "doc",
-      label: "12 - Rencontre",
-      id: "cours/rencontre12.1",
-      customProps: {
-        calendrier: {
-          "Horaire": [
-            {"1010": "2026-01-21"}
-          ]
-        }
-      }
-    },
-    {
-      type: "doc",
-      label: "13 - Rencontre",
-      id: "cours/rencontre13.1",
-      customProps: {
-        calendrier: {
-          "Horaire": [
-            {"1010": "2026-01-21"}
-          ]
-        }
-      }
-    },
-    {
-      type: "doc",
-      label: "14 - Rencontre",
-      id: "cours/rencontre14.1",
-      customProps: {
-        calendrier: {
-          "Horaire": [
-            {"1010": "2026-01-21"}
-          ]
-        }
-      }
-    },
-    {
-      type: "doc",
-      label: "15 - Rencontre",
-      id: "cours/rencontre15.1",
-      customProps: {
-        calendrier: {
-          "Horaire": [
-            {"1010": "2026-01-21"}
+            {"1010": "2026-05-21"}
           ]
         }
       },
-      "className": "remise-tp3"
+      "className": "examen"
     }
   ],
   "tp": [
