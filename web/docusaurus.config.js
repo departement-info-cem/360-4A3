@@ -81,6 +81,11 @@ const config = {
             sidebarId: "projets",
             label: "Projets",
           },
+          {
+            label: "Cours SN1 (Programmation en sciences)",
+            href: `https://info.cegepmontpetit.ca/420-SN1/`,
+            position: "right",
+          },
         ],
       },
       footer: {
