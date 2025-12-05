@@ -78,8 +78,8 @@ const config = {
           {
             type: "docSidebar",
             position: "left",
-            sidebarId: "tp",
-            label: "Travaux Pratiques",
+            sidebarId: "projets",
+            label: "Projets",
           },
         ],
       },
