@@ -82,3 +82,16 @@
   font-size: 0.75em;
   color: var(--remise-tp-font-color);
 }
+
+
+.gridProjets {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.gridProjets a {
+  text-decoration: none;
+}
