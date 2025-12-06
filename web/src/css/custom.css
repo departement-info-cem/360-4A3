@@ -131,3 +131,8 @@
   padding: 0.1rem 0.4rem;
   border-radius: 0.25rem;
 }
+
+/* Masquer toutes les icônes d'admonitions */
+.theme-admonition [class*='admonitionIcon'] {
+  display: none;
+}
