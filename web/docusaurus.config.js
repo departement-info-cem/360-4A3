@@ -62,6 +62,10 @@ const config = {
           hideable: true,
         },
       },
+        colorMode: {
+          defaultMode: 'dark',               // 🌙 site démarre en mode sombre
+          respectPrefersColorScheme: false,  // ignore le mode du système
+        },
       navbar: {
         title: siteConfig.nom,
         logo: {
