@@ -95,3 +95,39 @@
 .gridProjets a {
   text-decoration: none;
 }
+
+.bgwarning {
+  background-color: var(--ifm-color-warning-contrast-background);
+  color: var(--ifm-color-warning-contrast-foreground);
+  padding: 0.1rem 0.4rem;
+  border-radius: 0.25rem;
+}
+
+.bgtip {
+  /* même couleurs que :::tip */
+  background-color: var(--ifm-color-success-contrast-background);
+  color: var(--ifm-color-success-contrast-foreground);
+  padding: 0.1rem 0.4rem;
+  border-radius: 0.25rem;
+}
+
+.bgdanger {
+  background-color: var(--ifm-color-danger-contrast-background);
+  color: var(--ifm-color-danger-contrast-foreground);
+  padding: 0.1rem 0.4rem;
+  border-radius: 0.25rem;
+}
+
+.bginfo {
+  background-color: var(--ifm-color-info-contrast-background);
+  color: var(--ifm-color-info-contrast-foreground);
+  padding: 0.1rem 0.4rem;
+  border-radius: 0.25rem;
+}
+
+.bgnote {
+  background-color: var(--ifm-color-secondary-contrast-background);
+  color: var(--ifm-color-secondary-contrast-foreground);
+  padding: 0.1rem 0.4rem;
+  border-radius: 0.25rem;
+}
