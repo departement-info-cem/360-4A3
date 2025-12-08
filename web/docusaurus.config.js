@@ -86,8 +86,13 @@ const config = {
             label: "Projets",
           },
           {
-            label: "Cours SN1 (Programmation en sciences)",
+            label: "Cours SN1 (Programmation)",
             href: `https://info.cegepmontpetit.ca/420-SN1/`,
+            position: "right",
+          },
+          {
+            label: "Cours 4A4 (Réseaux de neurones)",
+            href: `https://info.cegepmontpetit.ca/420-4A4/`,
             position: "right",
           },
         ],
