@@ -17,7 +17,7 @@ Ce cours vise à vous faire intégrer les connaissances et les aptitudes acquise
     {
         id: "grid",
         label: "Cours",
-        icon: "📋",
+        icon: "🔢",
         component: <MainDocsGrid />,
         // Les titres et les sous-titres sont définis dans les attributs "title" et "description" de chaque document des cours.
     }, 
@@ -28,9 +28,26 @@ Ce cours vise à vous faire intégrer les connaissances et les aptitudes acquise
         component: <MainDocsCalendar professorName="Calendrier" />, // Doit matcher le nom du professeur qui est dans l'attribut "calendrier" des cours qui sont dans sidebar.js
     },
     {
+        id: "calendrier-cegep",
+        label: "Calendrier cégep",
+        icon: <div class="navbar__logo"><img src="/360-4A3/img/logo.svg"/></div>,
+        component:
+        <div>
+            <iframe
+                src={useBaseUrl('/pdf/Calendrier-2025-2026.pdf')}
+                style={{
+                    width: '100%',
+                    aspectRatio: '1 / 1.294',   // hauteur d’une page PDF letter US
+                    border: 'none',
+                }}
+                title="Calendrier du cégep"
+            />
+        </div>
+    },
+    {
         id: "projets",
         label: "Projets proposés",
-        icon: "📋",
+        icon: "🌿",
         component:
         <div class="viewContainer_fEBw">
             Note : vous trouverez une description plus détaillée de chacun de ces projets dans la section <a href="/projets/projets">Projets</a>.
