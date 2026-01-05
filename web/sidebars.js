@@ -10,7 +10,7 @@ const sidebars = {
       customProps: { // Attention, il faut recompiler à chaque modification dans sidebar.js pour que les modifications s'appliquent.
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-01-22"}  // Date du cours pour le groupe 1010 du le Prof 1
+            {"1010": "2026-01-26"}  // Date du cours pour le groupe 1010 du le Prof 1
           ]
         },
         tooltip: "visible" // Valeurs possibles visible ou cache, valeur par défaut "visible"
@@ -23,7 +23,7 @@ const sidebars = {
       customProps: {
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-01-29"}
+            {"1010": "2026-02-02"}
           ]
         }
       }
@@ -35,7 +35,7 @@ const sidebars = {
       customProps: {
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-02-05"}
+            {"1010": "2026-02-09"}
           ]
         }
       }
@@ -47,7 +47,7 @@ const sidebars = {
       customProps: {
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-02-12"}
+            {"1010": "2026-02-16"}
           ]
         }
       }
@@ -59,7 +59,7 @@ const sidebars = {
       customProps: {
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-02-19"}
+            {"1010": "2026-02-23"}
           ]
         }
       }
@@ -71,7 +71,7 @@ const sidebars = {
       customProps: {
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-02-26"}
+            {"1010": "2026-03-02"}
           ]
         }
       }
@@ -83,7 +83,7 @@ const sidebars = {
       customProps: {
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-03-05"}
+            {"1010": "2026-03-09"}
           ]
         }
       }
@@ -95,7 +95,7 @@ const sidebars = {
       customProps: {
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-03-12"}
+            {"1010": "2026-03-23"}
           ]
         }
       }
@@ -107,7 +107,7 @@ const sidebars = {
       customProps: {
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-03-26"}
+            {"1010": "2026-03-30"}
           ]
         }
       }
@@ -119,7 +119,7 @@ const sidebars = {
       customProps: {
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-04-09"}
+            {"1010": "2026-04-13"}
           ]
         }
       }
@@ -131,7 +131,7 @@ const sidebars = {
       customProps: {
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-04-16"}
+            {"1010": "2026-04-20"}
           ]
         }
       }
@@ -143,7 +143,7 @@ const sidebars = {
       customProps: {
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-04-23"}
+            {"1010": "2026-04-27"}
           ]
         }
       }
@@ -155,7 +155,7 @@ const sidebars = {
       customProps: {
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-04-30"}
+            {"1010": "2026-05-04"}
           ]
         }
       }
@@ -167,7 +167,7 @@ const sidebars = {
       customProps: {
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-05-07"}
+            {"1010": "2026-05-11"}
           ]
         }
       },
@@ -180,7 +180,7 @@ const sidebars = {
       customProps: {
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-05-21"}
+            {"1010": "2026-05-25"}
           ]
         }
       },
