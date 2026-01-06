@@ -131,8 +131,8 @@ const config = {
                 {
                     name: "keywords",
                     content: `${siteConfig.nom}, ${siteConfig.description},
-            4A3, 360-4A3, cem, sciences de la nature, projet d'intégration, projet integration, programmation,
-            python, cours programmation cégep, cégep Édouard-Montpetit, cegep Edouard Montpetit,
+            4A3, 360-4A3, cem, sciences de la nature, Projet scientifique de fin d'études en informatique, projet
+            programmation, python, cours programmation cégep, cégep Édouard-Montpetit, cegep Edouard Montpetit,
             informatique, cégep, cegep, édouard-montpetit, edouard-montpetit, édouard montpetit, edouard montpetit`,
                 },
                 {
