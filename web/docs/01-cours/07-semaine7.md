@@ -1,6 +1,6 @@
 ---
-title: Semaine 7
-description: Cours Semaine 7
+title: Semaines 7 à 12
+description: Avancement du projet
 ---
 
-# Semaine 7
+# Avancement du projet

@@ -1,6 +1,7 @@
 ---
 title: Semaine 15
-description: Cours Semaine 15
+description: Auto-évaluation (5%)
 ---
 
-# Semaine 15
+# Auto-évaluation (5%)
+

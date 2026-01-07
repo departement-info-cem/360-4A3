@@ -1,6 +1,6 @@
 ---
 title: Semaine 14
-description: Cours Semaine 14
+description: Présentation finale du projet (20%)
 ---
 
-# Semaine 14
+# Présentation finale du projet (20%)

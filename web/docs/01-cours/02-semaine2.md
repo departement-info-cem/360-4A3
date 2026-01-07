@@ -1,6 +1,6 @@
 ---
-title: Semaine 2
-description: Cours Semaine 2
+title: Semaines 2 à 4
+description: Avancement du projet
 ---
 
-# Semaine 2
+# Avancement du projet

@@ -5,7 +5,7 @@ const sidebars = {
   docs: [
     {
       type: "doc",
-      label: "1 - Semaine 1",
+      label: "1 - Présentation des projets",
       id: "cours/semaine1", // Doit matcher le nom du document qui est dans docs/01-cours/. Les chiffres au début (ex : 01-) sont ignorés.
       customProps: { // Attention, il faut recompiler à chaque modification dans sidebar.js pour que les modifications s'appliquent.
         calendrier: {
@@ -18,7 +18,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "2 - Semaine 2",
+      label: "2 - Avancement du projet",
       id: "cours/semaine2",
       customProps: {
         calendrier: {
@@ -30,8 +30,8 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "3 - Semaine 3",
-      id: "cours/semaine3",
+      label: "3 - Avancement du projet",
+      id: "cours/semaine2",
       customProps: {
         calendrier: {
           "Calendrier": [
@@ -42,8 +42,8 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "4 - Semaine 4",
-      id: "cours/semaine4",
+      label: "4 - Avancement du projet",
+      id: "cours/semaine2",
       customProps: {
         calendrier: {
           "Calendrier": [
@@ -54,7 +54,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "5 - Semaine 5",
+      label: "5 - Proposition de projet (10%)",
       id: "cours/semaine5",
       customProps: {
         calendrier: {
@@ -62,11 +62,12 @@ const sidebars = {
             {"1010": "2026-02-23"}
           ]
         }
-      }
+      },
+      "className": "remise-tp"
     },
     {
       type: "doc",
-      label: "6 - Semaine 6",
+      label: "6 - Présentation du projet proposé (10%)",
       id: "cours/semaine6",
       customProps: {
         calendrier: {
@@ -74,11 +75,12 @@ const sidebars = {
             {"1010": "2026-03-02"}
           ]
         }
-      }
+      },
+      "className": "examen"
     },
     {
       type: "doc",
-      label: "7 - Semaine 7",
+      label: "7 - Avancement du projet",
       id: "cours/semaine7",
       customProps: {
         calendrier: {
@@ -90,8 +92,8 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "8 - Semaine 8",
-      id: "cours/semaine8",
+      label: "8 - Avancement du projet",
+      id: "cours/semaine7",
       customProps: {
         calendrier: {
           "Calendrier": [
@@ -102,8 +104,8 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "9 - Semaine 9",
-      id: "cours/semaine9",
+      label: "9 - Avancement du projet",
+      id: "cours/semaine7",
       customProps: {
         calendrier: {
           "Calendrier": [
@@ -114,8 +116,8 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "10 - Semaine 10",
-      id: "cours/semaine10",
+      label: "10 - Avancement du projet",
+      id: "cours/semaine7",
       customProps: {
         calendrier: {
           "Calendrier": [
@@ -126,8 +128,8 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "11 - Semaine 11",
-      id: "cours/semaine11",
+      label: "11 - Avancement du projet",
+      id: "cours/semaine7",
       customProps: {
         calendrier: {
           "Calendrier": [
@@ -138,8 +140,8 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "12 - Semaine 12",
-      id: "cours/semaine12",
+      label: "12 - Avancement du projet",
+      id: "cours/semaine7",
       customProps: {
         calendrier: {
           "Calendrier": [
@@ -150,7 +152,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "13 - Semaine 13",
+      label: "13 - Rapport de recherche (25%)",
       id: "cours/semaine13",
       customProps: {
         calendrier: {
@@ -158,11 +160,12 @@ const sidebars = {
             {"1010": "2026-05-04"}
           ]
         }
-      }
+      },
+      "className": "remise-tp"
     },
     {
       type: "doc",
-      label: "14 - Semaine 14",
+      label: "14 - Présentation finale du projet (20%)",
       id: "cours/semaine14",
       customProps: {
         calendrier: {
@@ -171,11 +174,11 @@ const sidebars = {
           ]
         }
       },
-      "className": "remise-tp2"
+      "className": "examen"
     },
     {
       type: "doc",
-      label: "15 - Semaine 15",
+      label: "15 - Auto-évaluation (5%)",
       id: "cours/semaine15",
       customProps: {
         calendrier: {
@@ -184,7 +187,7 @@ const sidebars = {
           ]
         }
       },
-      "className": "examen"
+      "className": "remise-tp"
     }
   ],
   "projets": [

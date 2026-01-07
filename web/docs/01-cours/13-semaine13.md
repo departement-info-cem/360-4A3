@@ -1,6 +1,6 @@
 ---
 title: Semaine 13
-description: Cours Semaine 13
+description: Rapport de recherche (25%)
 ---
 
-# Semaine 13
+# Rapport de recherche (25%)

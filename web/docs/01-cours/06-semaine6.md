@@ -1,6 +1,6 @@
 ---
 title: Semaine 6
-description: Cours Semaine 6
+description: Présentation du projet proposé (10%)
 ---
 
-# Semaine 6
+# Présentation du projet proposé (10%)

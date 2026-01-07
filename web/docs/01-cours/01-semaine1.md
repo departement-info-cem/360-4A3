@@ -1,6 +1,6 @@
 ---
 title: Semaine 1
-description: Cours Semaine 1
+description: Présentation du cours et des projets
 ---
 
-# Semaine 1
+# Présentation du cours et des projets

@@ -43,6 +43,11 @@
   color: var(--examen-font-color);
 }
 
+.remise-tp {
+  background-color: var(--remise-tp-bg);
+  color: var(--remise-tp-font-color);
+}
+
 .remise-tp1::after {
   content: "Remise TP1";
   text-align: center;

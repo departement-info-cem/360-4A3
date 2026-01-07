@@ -1,6 +1,6 @@
 ---
 title: Semaine 5
-description: Cours Semaine 5
+description: Proposition de projet (10%)
 ---
 
-# Semaine 5
+# Proposition de projet (10%)
