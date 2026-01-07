@@ -67,7 +67,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "6 - Présentation du projet proposé (10%)",
+      label: "6 - Présentation projet (10%)",
       id: "cours/semaine6",
       customProps: {
         calendrier: {
@@ -152,7 +152,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "13 - Rapport de recherche (25%)",
+      label: "13 - Rapport recherche (25%)",
       id: "cours/semaine13",
       customProps: {
         calendrier: {
@@ -165,7 +165,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "14 - Présentation finale du projet (20%)",
+      label: "14 - Présentation finale (20%)",
       id: "cours/semaine14",
       customProps: {
         calendrier: {
