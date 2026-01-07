@@ -178,7 +178,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "15 - Auto-évaluation (5%)",
+      label: "15 - Auto-évaluation (10%)",
       id: "cours/semaine15",
       customProps: {
         calendrier: {
