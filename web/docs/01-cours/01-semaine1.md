@@ -133,7 +133,7 @@ En équipe :
 4. Pour chacun, discutez :
    - du phénomène étudié
    - du type de données possibles
-   - des questions de recherche envisageables
+   - des [questions de recherche](/methodes/questions-recherche) envisageables
    - de ce que vous comprenez… et de ce qui est flou
 
 👉 L’objectif n’est **pas** de décider définitivement, mais d’explorer.
@@ -177,6 +177,8 @@ Voici quelques exemples de sources de données ouvertes qui pourraient vous êtr
 
 👉 Toutes les sources ne sont pas également documentées ou adaptées à un projet scientifique. La **qualité**, la **provenance** et la **compréhension** des données sont plus importantes que leur **quantité**.
 
+👉 Lisez la section [Comment évaluer la qualité d’un jeu de données?](/methodes/source-donnees) pour vous guider dans cette démarche.
+
 :::warning Validation obligatoire des sources de données
 ### ✅ Validation des données
 Les sources de données devront être **validées par moi** le plus tôt possible dans le projet.
@@ -199,6 +201,6 @@ Pour la rencontre de votre équipe avec moi la semaine prochaine, vous devez êt
 - deux projets entre lesquels vous hésitez (si vous n’avez pas fait de choix définitif)
 - pour chaque projet retenu :
   - une description du phénomène ou problème à étudier
-  - des pistes de sources de données potentielles
-  - des idées de questions de recherche possibles
+  - des pistes de [sources de données](/methodes/source-donnees) potentielles
+  - des idées de [questions de recherche](/methodes/questions-recherche) possibles
 :::

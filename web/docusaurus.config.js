@@ -49,6 +49,10 @@ const config = {
                     editUrl: `https://github.com/departement-info-cem/${siteConfig.nomUrl}/tree/main/web`,
                     remarkPlugins: [remarkMath],
                     rehypePlugins: [rehypeKatex],
+                    admonitions: {
+                        keywords: ['note-nt', 'info-nt', 'tip-nt', 'warning-nt', 'danger-nt'],
+                        extendDefaults: true,
+                    },
                 },
                 theme: {
                     customCss: [require.resolve("./src/css/custom.css")],
@@ -56,10 +60,18 @@ const config = {
                 blog: {
                     remarkPlugins: [remarkMath],
                     rehypePlugins: [rehypeKatex],
+                    admonitions: {
+                        keywords: ['note-nt', 'info-nt', 'tip-nt', 'warning-nt', 'danger-nt'],
+                        extendDefaults: true,
+                    },
                 },
                 pages: {
                     remarkPlugins: [remarkMath],
                     rehypePlugins: [rehypeKatex],
+                    admonitions: {
+                        keywords: ['note-nt', 'info-nt', 'tip-nt', 'warning-nt', 'danger-nt'],
+                        extendDefaults: true,
+                    },
                 },
             }),
         ],
@@ -97,6 +109,12 @@ const config = {
                         position: "left",
                         sidebarId: "projets",
                         label: "Projets",
+                    },
+                    {
+                        type: "docSidebar",
+                        position: "left",
+                        sidebarId: "methodes",
+                        label: "Méthodes",
                     },
                     {
                         label: "SN1 (Programmation)",
