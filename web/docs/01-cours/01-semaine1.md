@@ -87,7 +87,7 @@ G --> H[🔁 Pistes d’amélioration ou nouvelles questions]
 ::::tip-nt
 ## 👥 Formation des équipes
 - Les équipes seront composées de **3 personnes**
-- Si le nombre total `n` d’étudiants n’est pas un multiple de 3 (`n % 3 != 0`) :
+- Si le nombre total `n` d’étudiant.e.s dans la classe n’est pas un multiple de 3 (`n % 3 != 0`) :
   - si `n % 3 == 2`, alors **1 équipe de 2** sera aussi formée
   - si `n % 3 == 1`, alors **2 équipes de 2** seront aussi formées
 - Vous devez m'indiquer vos équipes **avant la fin du cours aujourd'hui**.
