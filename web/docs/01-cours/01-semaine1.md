@@ -5,7 +5,7 @@ description: Lancement du projet scientifique
 
 # 🚀 Lancement du projet scientifique
 
-:::info Objectifs
+:::info-nt
 ### 🎯 Objectifs
 Aujourd'hui, vous allez :
 - comprendre ce qu’est un **projet scientifique** en informatique
@@ -15,7 +15,7 @@ Aujourd'hui, vous allez :
 - amorcer une **démarche scientifique réaliste**
 :::
 
-::::note Déroulement typique d'une semaine
+::::note-nt
 ## 🗓️ Déroulement d'une semaine
 ### ⏳ Temps en classe (3 heures)
 :::danger Rencontres hebdomadaires obligatoires
@@ -46,7 +46,7 @@ En plus du travail en classe, vous devrez aussi consacrer du temps entre les cou
 👉 Il vous est aussi possible de vous faire des rencontres d'équipe en dehors des heures de cours lorsque nécessaire.
 ::::
 
-:::info Qu’est-ce qu’un projet scientifique en informatique ?
+:::info-nt
 ## 🧠 Projet scientifique en informatique
 Un projet scientifique en informatique ne consiste **pas** simplement à programmer une application ou à apprendre une nouvelle technologie.
 
@@ -84,7 +84,7 @@ G --> H[🔁 Pistes d’amélioration ou nouvelles questions]
 ```
 :::
 
-::::tip Les équipes
+::::tip-nt
 ## 👥 Formation des équipes
 - Les équipes seront composées de **3 personnes**
 - Si le nombre total `n` d’étudiants n’est pas un multiple de 3 (`n % 3 != 0`) :
@@ -97,7 +97,7 @@ G --> H[🔁 Pistes d’amélioration ou nouvelles questions]
 - avec qui vous êtes capables de vous organiser
 - qui ont des forces complémentaires
 
-:::warning repo GitHub commun
+:::warning-nt
 ### 🐙 Repo GitHub
 Chaque équipe devra créer un **repo GitHub commun** pour le projet.  
 
@@ -111,7 +111,7 @@ Aussitôt votre équipe formée :
   :::
   ::::
 
-:::info Présentation des projets proposés
+:::info-nt
 ## 🧪 Projets proposés
 [Plusieurs projets](/projets/projets) vous sont proposés comme **points de départ**.  
 Chaque projet :
@@ -123,7 +123,7 @@ Chaque projet :
 vous devrez le **transformer en question de recherche** adaptée à vos intérêts et aux données disponibles.
 :::
 
-:::tip Activité en classe
+:::tip-nt
 ## 🔍 Exploration initiale
 En équipe :
 
@@ -139,7 +139,7 @@ En équipe :
 👉 L’objectif n’est **pas** de décider définitivement, mais d’explorer.
 :::
 
-::::info Recherche de sources de données (important)
+::::info-nt
 ## 📂 Sources de données
 Certains projets de recherche en informatique ne nécessitent pas de données réelles (ex. simulations, protocoles contrôlés).  
 
@@ -179,7 +179,7 @@ Voici quelques exemples de sources de données ouvertes qui pourraient vous êtr
 
 👉 Lisez la section [Comment évaluer la qualité d’un jeu de données?](/methodes/source-donnees) pour vous guider dans cette démarche.
 
-:::warning Validation obligatoire des sources de données
+:::warning-nt
 ### ✅ Validation des données
 Les sources de données devront être **validées par moi** le plus tôt possible dans le projet.
 
@@ -193,7 +193,7 @@ Vous devez être en mesure de préciser :
 :::
 ::::
 
-:::success Rencontre de la semaine prochaine
+:::tip-nt
 ## 👉 Pour la semaine prochaine
 Pour la rencontre de votre équipe avec moi la semaine prochaine, vous devez être prêts à présenter :
 - le projet sur lequel vous vous êtes mis d’accord d'explorer (si vous avez fait un choix)
