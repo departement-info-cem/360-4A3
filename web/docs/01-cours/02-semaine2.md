@@ -1,6 +1,6 @@
 ---
 title: Semaines 2 à 4
-description: Avancement du projet
+description: Développement du projet
 ---
 
-# Avancement du projet
+# Développement du projet

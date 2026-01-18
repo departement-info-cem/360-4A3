@@ -7,6 +7,9 @@ const siteConfig = require("./config");
 const lightCodeTheme = themes.vsLight;
 const darkCodeTheme = themes.vsDark;
 
+const remarkMath = require('remark-math');
+const rehypeKatex = require('rehype-katex');
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: siteConfig.nom,
@@ -44,9 +47,19 @@ const config = {
                     sidebarPath: require.resolve("./sidebars.js"),
                     routeBasePath: "/",
                     editUrl: `https://github.com/departement-info-cem/${siteConfig.nomUrl}/tree/main/web`,
+                    remarkPlugins: [remarkMath],
+                    rehypePlugins: [rehypeKatex],
                 },
                 theme: {
                     customCss: [require.resolve("./src/css/custom.css")],
+                },
+                blog: {
+                    remarkPlugins: [remarkMath],
+                    rehypePlugins: [rehypeKatex],
+                },
+                pages: {
+                    remarkPlugins: [remarkMath],
+                    rehypePlugins: [rehypeKatex],
                 },
             }),
         ],
