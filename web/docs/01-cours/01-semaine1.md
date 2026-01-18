@@ -17,6 +17,10 @@ Aujourd'hui, vous allez :
 
 ::::note-nt
 ## 🗓️ Déroulement d'une semaine
+
+Votre projet scientifique se déroule sur **15 semaines**.<br/>
+Chaque semaine, vous aurez environ **6 heures** à consacrer au projet, réparties comme suit :
+
 ### ⏳ Temps en classe (3 heures)
 :::danger Rencontres hebdomadaires obligatoires
 Chaque semaine, je rencontrerai chaque équipe de 15 à 20 minutes pour :
@@ -29,21 +33,32 @@ Chaque semaine, je rencontrerai chaque équipe de 15 à 20 minutes pour :
 - échanger des idées
 - etc.
 :::
-Vous passerez le reste du temps de cours à travailler en équipe sur votre projet.
 
+:::tip-nt
+Vous passerez le reste du temps de cours à travailler en équipe sur votre projet.
+:::
+
+:::info-nt
 👉 À la fin de chaque cours, avant de quitter, vous devez déterminer clairement les tâches de chaque membre de l’équipe d'ici à la prochaine rencontre.<br/>
 Vous devez noter ces tâches dans un fichier texte de suivi de projet facile à trouver dans votre repo GitHub, dans l'un de ces langages :
 - [Markdown (.md)](https://info.cegepmontpetit.ca/420-SN1/recettes/creer-markdown)
 - Typst (.typ)
 - LaTeX (.tex)
+:::
+
+---
 
 ### ⏳ Travail entre les cours (3 hrs)
-En plus du travail en classe, vous devrez aussi consacrer du temps entre les cours pour :
+:::tip-nt
+En plus du travail en classe, vous devrez aussi consacrer du temps (environ 3 heures) entre les cours pour :
 - avancer sur les tâches assignées
 - faire des recherches sur des aspects spécifiques du projet
 - préparer la prochaine rencontre avec moi
+:::
 
+:::info-nt
 👉 Il vous est aussi possible de vous faire des rencontres d'équipe en dehors des heures de cours lorsque nécessaire.
+:::
 ::::
 
 :::info-nt
@@ -63,7 +78,9 @@ Dans tous les cas, le projet doit produire des **résultats mesurables**, qui se
 - des **résultats observables**
 - une **analyse critique des limites**
 
-### 🧭 Démarche scientifique :
+---
+
+### 🧭 Démarche scientifique
 ```mermaid
 flowchart TD
 A[💡 Phénomène ou problème à étudier] --> B[❓ Question de recherche]
