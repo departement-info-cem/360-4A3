@@ -1,9 +1,9 @@
 ---
 title: Semaine 5
-description: Proposition de projet (10 %)
+description: Proposition de projet (10%)
 ---
 
-# 📝 Proposition de projet (10 %)
+# 📝 Proposition de projet (10%)
 
 Cette semaine marque un **jalon important** du cours.
 
@@ -122,7 +122,7 @@ Incluez :
 👉 Il n’est **pas attendu** que vous citiez des articles de recherche avancés incompris.
 :::
 
-## 🧮 Grille d’évaluation (10 %)
+## 🧮 Grille d’évaluation (10%)
 
 :::info-nt
 
@@ -146,4 +146,6 @@ Après la remise de la proposition :
 - la version validée deviendra la **base officielle** du projet
 
 📌 Cette proposition vous guidera jusqu’au **rapport final de recherche**.
+
+👉 Finalisez maintenant votre [Présentation de projet](/cours/semaine6) pour la semaine prochaine!
 :::
