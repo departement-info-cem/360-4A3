@@ -101,6 +101,24 @@ G --> H[🔁 Pistes d’amélioration ou nouvelles questions]
 ```
 :::
 
+---
+
+:::info-nt
+## ⚙️ Réalisation du projet (25%)
+
+### 🧮 Grille d’évaluation individuelle
+Votre évaluation individuelle de la partie **Réalisation du projet (25%)** portera sur votre travail soutenu tout au long des semaines, incluant votre participation lors des rencontres hebdomadaires.
+
+| Critère évalué | Description | Points |
+|----------------|-------------|:------:|
+| **1. Compréhension scientifique du projet** | Compréhension de la question de recherche, de la démarche et des enjeux scientifiques du projet | **5**  |
+| **2. Contribution au développement** | Participation active au développement du projet (implémentation, essais, exploration, ajustements) | **5**  |
+| **3. Analyse et réflexion** | Capacité à analyser les résultats obtenus, à les interpréter et à discuter de leur signification | **5**  |
+| **4. Rigueur et suivi du travail** | Qualité du suivi du travail (documentation, clarté des essais, organisation du repo GitHub) | **5**  |
+| **5. Participation aux rencontres** | Préparation, implication et capacité à discuter de l’avancement lors des rencontres hebdomadaires | **5**  |
+| **Total** |  | **25** |
+:::
+
 ::::tip-nt
 ## 👥 Formation des équipes
 - Les équipes seront composées de **3 personnes**
