@@ -1,6 +1,6 @@
 ---
 title: Semaines 7 à 12
-description: Avancement du projet
+description: Développement et analyse
 ---
 
-# Avancement du projet
+# Développement et analyse du projet

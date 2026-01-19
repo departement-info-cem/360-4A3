@@ -18,7 +18,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "2 - Développement du projet",
+      label: "2 - Exploration et cadrage",
       id: "cours/semaine2",
       customProps: {
         calendrier: {
@@ -30,7 +30,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "3 - Développement du projet",
+      label: "3 - Exploration et cadrage",
       id: "cours/semaine2",
       customProps: {
         calendrier: {
@@ -42,7 +42,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "4 - Développement du projet",
+      label: "4 - Exploration et cadrage",
       id: "cours/semaine2",
       customProps: {
         calendrier: {
@@ -80,7 +80,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "7 - Avancement du projet",
+      label: "7 - Développement et analyse",
       id: "cours/semaine7",
       customProps: {
         calendrier: {
@@ -92,7 +92,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "8 - Avancement du projet",
+      label: "8 - Développement et analyse",
       id: "cours/semaine7",
       customProps: {
         calendrier: {
@@ -104,7 +104,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "9 - Avancement du projet",
+      label: "9 - Développement et analyse",
       id: "cours/semaine7",
       customProps: {
         calendrier: {
@@ -116,7 +116,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "10 - Avancement du projet",
+      label: "10 - Développement et analyse",
       id: "cours/semaine7",
       customProps: {
         calendrier: {
@@ -128,7 +128,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "11 - Avancement du projet",
+      label: "11 - Développement et analyse",
       id: "cours/semaine7",
       customProps: {
         calendrier: {
@@ -140,7 +140,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "12 - Avancement du projet",
+      label: "12 - Développement et analyse",
       id: "cours/semaine7",
       customProps: {
         calendrier: {

@@ -1,6 +1,6 @@
 ---
 title: Semaines 2 à 4
-description: Développement du projet
+description: Exploration et cadrage
 ---
 
-# Développement du projet
+# Exploration et cadrage du projet
