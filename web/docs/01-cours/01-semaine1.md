@@ -128,11 +128,11 @@ Les grilles de ces évaluations sont disponibles sur la page de chaque évaluati
 
 | Critère évalué | Description | Points |
 |----------------|-------------|:------:|
-| **1. Compréhension scientifique du projet** | Compréhension de la question de recherche, de la démarche et des enjeux scientifiques du projet | **5**  |
-| **2. Contribution au développement** | Participation active au développement du projet (implémentation, essais, exploration, ajustements) | **5**  |
-| **3. Analyse et réflexion** | Capacité à analyser les résultats obtenus, à les interpréter et à discuter de leur signification | **5**  |
-| **4. Rigueur et suivi du travail** | Qualité du suivi du travail (documentation, clarté des essais, organisation du repo GitHub) | **5**  |
-| **5. Participation aux rencontres** | Préparation, implication et capacité à discuter de l’avancement lors des rencontres hebdomadaires | **5**  |
+| **Compréhension scientifique du projet** | Compréhension de la question de recherche, de la démarche et des enjeux scientifiques du projet | **5**  |
+| **Contribution au développement** | Participation active au développement du projet (implémentation, essais, exploration, ajustements) | **5**  |
+| **Analyse et réflexion** | Capacité à analyser les résultats obtenus, à les interpréter et à discuter de leur signification | **5**  |
+| **Rigueur et suivi du travail** | Qualité du suivi du travail (documentation, clarté des essais, organisation du repo GitHub) | **5**  |
+| **Participation aux rencontres** | Préparation, implication et capacité à discuter de l’avancement lors des rencontres hebdomadaires | **5**  |
 | **Total** |  | **25** |
 :::
 

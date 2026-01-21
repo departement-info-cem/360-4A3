@@ -87,13 +87,13 @@ Votre présentation doit couvrir :
 :::info-nt
 **Évaluation individuelle**
 
-| Critère évalué                           | Description | Points |
-|------------------------------------------|-------------|:------:|
-| **1. Compréhension du projet**           | Capacité à expliquer clairement le projet, la question de recherche et les objectifs scientifiques | **3**  |
-| **2. Contribution orale**                | Participation active et pertinente à la présentation (temps de parole, clarté, engagement) | **3**  |
-| **3. Cohérence scientifique**            | Capacité à expliquer la logique du projet et les liens entre la question, les données et la démarche | **3**
-| **4. Qualité de la communication orale** | Clarté de l’expression, structure du discours, vocabulaire approprié | **1**  |
-| **Total**                                |  | **10** |
+| Critère évalué                        | Description | Points |
+|---------------------------------------|-------------|:------:|
+| **Compréhension du projet**           | Capacité à expliquer clairement le projet, la question de recherche et les objectifs scientifiques | **3**  |
+| **Contribution orale**             | Participation active et pertinente à la présentation (temps de parole, clarté, engagement) | **3**  |
+| **Cohérence scientifique**         | Capacité à expliquer la logique du projet et les liens entre la question, les données et la démarche | **3**
+| **Qualité de la communication orale** | Clarté de l’expression, structure du discours, vocabulaire approprié | **1**  |
+| **Total**                             |  | **10** |
 :::
 
 :::tip-nt
