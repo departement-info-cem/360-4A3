@@ -23,7 +23,7 @@ Chaque semaine, vous aurez environ **6 heures** à consacrer au projet, réparti
 
 ### ⏳ Temps en classe (3 heures)
 :::danger Rencontres hebdomadaires obligatoires
-Chaque semaine, je rencontrerai chaque équipe de 15 à 20 minutes pour :
+Chaque semaine, je rencontrerai chaque équipe environ 15 minutes pour :
 - faire le point sur l'avancement du projet
 - discuter des difficultés rencontrées
 - valider les choix méthodologiques
@@ -32,6 +32,8 @@ Chaque semaine, je rencontrerai chaque équipe de 15 à 20 minutes pour :
 - valider les prochaines étapes
 - échanger des idées
 - etc.
+
+👉 Référez-vous à la section [Rencontres hebdomadaires](/methodes/rencontres) pour vous aider à bien préparer ces rencontres.
 :::
 
 :::tip-nt
