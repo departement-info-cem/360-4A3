@@ -196,5 +196,5 @@ Les sections **Introduction**, **Question de recherche**, **Données/Expérience
 
 :::tip-nt
 ## 👉 Et ensuite?
-Vous présenterez votre projet lors des [Présentation finale](/cours/semaine14)!
+Vous présenterez votre projet lors de la [Présentation finale](/cours/semaine14)!
 :::
