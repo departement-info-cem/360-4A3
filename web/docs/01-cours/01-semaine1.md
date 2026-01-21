@@ -104,10 +104,25 @@ G --> H[🔁 Pistes d’amélioration ou nouvelles questions]
 ---
 
 :::info-nt
-## ⚙️ Réalisation du projet (25%)
+## 🧮 Évaluations
 
-### 🧮 Grille d’évaluation individuelle
-Votre évaluation individuelle de la partie **Réalisation du projet (25%)** portera sur votre travail soutenu tout au long des semaines, incluant votre participation lors des rencontres hebdomadaires.
+Votre note finale au cours sera composée de plusieurs évaluations, dont voici la répartition :
+| Évaluation | Individuelle | En équipe |
+|---------------------------------------|:-----------:|-----------------------|
+| [Proposition de projet](/cours/semaine5) |  | 10% |
+| [Présentation du projet](/cours/semaine6) | 10% |  |
+| Réalisation du projet | 25% |  |
+| [Rapport de recherche](/cours/semaine13) |  | 25% |
+| [Présentation finale](/cours/semaine14) | 20% |  |
+| [Auto-évaluation](/cours/semaine15) | 10% |  |
+
+Les grilles de ces évaluations sont disponibles sur la page de chaque évaluation, sauf pour la partie **Réalisation du projet (25%)**, qui est détaillée ci-dessous.
+
+### ⚙️ Réalisation du projet (25%)
+
+- La partie **Réalisation du projet (25%)** de votre note finale portera sur votre travail soutenu tout au long des semaines.
+- Elle sera évaluée **individuellement**, en fonction de votre contribution personnelle au projet de votre équipe, incluant votre participation lors des rencontres hebdomadaires.
+- En voici les critères d’évaluation :
 
 | Critère évalué | Description | Points |
 |----------------|-------------|:------:|
