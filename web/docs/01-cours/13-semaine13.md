@@ -35,9 +35,10 @@ Le rapport vise à vérifier que :
 - Travail **en équipe**
 - Rapport écrit structuré
 - Format au choix :
-  - Typst
-  - LaTeX
-  - Word
+  - [**Typst**](/methodes/typst) (recommandé)
+  - [**LaTeX**](/methodes/latex)
+  - **Word**
+- Des gabarits sont disponibles dans la section *Méthodes* pour vous aider à démarrer avec [Typst](/methodes/typst) ou [LaTeX](/methodes/latex).
 
 👉 Le PDF remis est le document évalué.
 
