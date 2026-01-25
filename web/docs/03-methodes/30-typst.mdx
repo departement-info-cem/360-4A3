@@ -25,15 +25,20 @@ Vous pouvez [télécharger ce gabarit Typst](/ressources/gabarits/gabarit_rappor
 - Ouvrez ou créez un fichier avec l’extension `.typ`
 :::
 
-:::info-nt
+::::info-nt
 ### 2️⃣ Installer l’extension Typst
 - Ouvrez l’onglet **Extensions** à gauche : <img src="/360-4A3/img/extensions.png"/>
-- Recherchez : **Typst LSP** *(parfois affichée sous le nom **Tinymist Typst**)*
+- Recherchez : **Tinymist Typst**
 - Auteur : *myriad-dreamin*
 - Cliquez sur **Installer**
 
-👉 C’est **la seule extension nécessaire**.
+:::warning IMPORTANT
+Pour que le PDF soit regénéré automatiquement lorsque vous tapez, vous devez configurer l’option `Tynymist Export PDF` :
+- `Fichier → Préférences → Paramètres`
+- Recherchez : `Tynymist Export PDF`
+- Sélectionnez : `onType` : <img src="/360-4A3/img/pdf3.png"/>
 :::
+::::
 
 :::info-nt
 ### 3️⃣ Générer le PDF
@@ -47,17 +52,14 @@ Vous pouvez [télécharger ce gabarit Typst](/ressources/gabarits/gabarit_rappor
 ### 4️⃣ Afficher un aperçu du PDF
 - En haut à droite, cliquez sur l’icône de la loupe avec un document : <img src="/360-4A3/img/pdf2.png"/>
 - Cela ouvre un panneau latéral avec l’aperçu du PDF.
-- ✨ L'aperçu se met à jour **automatiquement** lorsque vous modifiez le code Typst.
-:::danger-nt
-Cependant, le vrai PDF n'est pas mis à jour.\
-Pour le mettre à jour, il faut cliquer à nouveau sur le bouton `PDF` en haut de l'onglet du fichier `.typ`.
-<img src="/360-4A3/img/pdf.png"/>
-:::
+- ✨ L'aperçu se met à jour **automatiquement** lorsque vous modifiez le code Typst (ainsi que le PDF, si vous avez configuré l’option `onType`).
 ::::
 
-:::warning
-VS code ne sauvegarde pas automatiquement vos fichiers.\
-Pensez à sauvegarder régulièrement avec `Ctrl + S`.
+:::danger ATTENTION
+VS code ne sauvegarde pas automatiquement votre fichier `.typ`, même si le PDF est mis à jour.\
+Pensez à sauvegarder régulièrement avec `Ctrl + S`.\
+👉 Si vous fermez VS Code sans sauvegarder, vous perdrez vos modifications.\
+👉 Si vous faites un commit-push avant de sauvegarder, vous pousserez la dernière version sauvegardée.
 :::
 
 ## 📚 Ressources
