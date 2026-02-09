@@ -58,8 +58,7 @@ La proposition de projet vise à vérifier que :
 Présentez :
 - le **contexte général** du projet
 - le phénomène ou problème étudié
-- pourquoi ce sujet vous intéresse
-- pourquoi il est pertinent scientifiquement
+- pourquoi ce sujet est pertinent scientifiquement
 
 👉 Cette section répond à la question :  
 **« Pourquoi ce projet mérite-t-il d’être étudié? »**
