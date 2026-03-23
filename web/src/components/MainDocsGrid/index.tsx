@@ -52,6 +52,9 @@ export default function MainDocsGrid() {
     if (className && className.includes("examen")) {
       return "var(--examen-bg)";
     }
+    if (className && className.includes("salon")) {
+      return "var(--ifm-color-info-contrast-background)";
+    }
     return "inherit";
   };
 

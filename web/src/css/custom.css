@@ -45,6 +45,11 @@
   color: var(--examen-font-color);
 }
 
+.salon {
+  background-color: var(--ifm-color-info-contrast-background);
+  color: var(--ifm-color-info-contrast-foreground);
+}
+
 .remise-tp {
   background-color: var(--remise-tp-bg);
   color: var(--remise-tp-font-color);
