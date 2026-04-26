@@ -116,7 +116,7 @@ Chaque semaine, votre rencontre d’équipe avec moi servira à :
 ## 🎯 Se projeter vers la suite
 
 :::tip-nt
-À la semaine 12, vous devriez avoir :
+À la semaine 10, vous devriez avoir :
 - une démarche scientifique complète
 - un ensemble de résultats exploitables
 - une compréhension claire de vos observations
