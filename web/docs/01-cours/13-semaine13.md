@@ -187,7 +187,7 @@ Les sections **Introduction**, **Question de recherche**, **Données/Expérience
 
 :::tip-nt
 ## 🧠 Conseils importants
-- Commencez la rédaction **bien avant la semaine 13**
+- Commencez la rédaction **bien avant la semaine 11**
 - Rédigez certaines sections **au fil du projet**
 - Utilisez les rencontres hebdomadaires pour valider vos choix
 - Relisez-vous attentivement
