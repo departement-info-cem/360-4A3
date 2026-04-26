@@ -51,7 +51,7 @@ Le rapport vise à vérifier que :
 - Qualité > quantité
 - Clarté et rigueur scientifique priorisées
 
-👉 Un rapport trop long, répétitif ou mal structuré sera pénalisé.
+👉 Un rapport répétitif ou mal structuré sera pénalisé.
 :::
 
 ## 🧩 Structure attendue du rapport
