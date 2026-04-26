@@ -54,7 +54,7 @@ La proposition de projet vise à vérifier que :
 ## 🧩 Contenu attendu
 
 :::tip-nt
-### 1. Contexte et motivation
+### 1. Contexte / introduction
 Présentez :
 - le **contexte général** du projet
 - le phénomène ou problème étudié
@@ -125,16 +125,16 @@ Incluez :
 
 :::info-nt
 
-| Section évaluée                  | Description                                                                                                          |  Points |
-|----------------------------------|----------------------------------------------------------------------------------------------------------------------|:------:|
-| **Contexte et motivation**       | Clarté du contexte, compréhension du phénomène ou problème étudié, pertinence scientifique du projet                 |  **1** |
-| **Question de recherche**     | Question claire, précise, mesurable, cohérente avec une démarche scientifique en informatique                        |  **2** |
+| Section évaluée                     | Description                                                                                                          |  Points |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------------------|:------:|
+| **Contexte / introduction**         | Clarté du contexte, compréhension du phénomène ou problème étudié, pertinence scientifique du projet                 |  **1** |
+| **Question de recherche**           | Question claire, précise, mesurable, cohérente avec une démarche scientifique en informatique                        |  **2** |
 | **Données ou expérience envisagée** | Description adéquate des données ou de l’expérience numérique, provenance claire ou principe de génération explicité |  **2** |
-| **Méthodologie prévue**       | Cohérence de la démarche proposée, logique entre question, données et analyses envisagées                            |  **2** |
-| **Faisabilité et limites**    | Réalisme du projet, identification des contraintes, reconnaissance des limites et hypothèses                         |  **1** |
-| **Références**                | Qualité et pertinence des références                                                                                 |  **1** |
-| **Qualité du français écrit**    | Aucune faute de français, structure du document, clarté de l’écriture                                                |  **1** |
-| **Total**                        |                                                                                                                      | **10** |
+| **Méthodologie prévue**             | Cohérence de la démarche proposée, logique entre question, données et analyses envisagées                            |  **2** |
+| **Faisabilité et limites**          | Réalisme du projet, identification des contraintes, reconnaissance des limites et hypothèses                         |  **1** |
+| **Références**                      | Qualité et pertinence des références                                                                                 |  **1** |
+| **Qualité du français écrit**       | Aucune faute de français, structure du document, clarté de l’écriture                                                |  **1** |
+| **Total**                           |                                                                                                                      | **10** |
 :::
 
 :::tip-nt
