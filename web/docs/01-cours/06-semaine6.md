@@ -87,13 +87,87 @@ Votre présentation doit couvrir :
 :::info-nt
 **Évaluation individuelle**
 
-| Critère évalué                        | Description | Points |
-|---------------------------------------|-------------|:------:|
-| **Compréhension du projet**           | Capacité à expliquer clairement le projet, la question de recherche et les objectifs scientifiques | **3**  |
-| **Contribution orale**             | Participation active et pertinente à la présentation (temps de parole, clarté, engagement) | **3**  |
-| **Cohérence scientifique**         | Capacité à expliquer la logique du projet et les liens entre la question, les données et la démarche | **3**
-| **Qualité de la communication orale** | Clarté de l’expression, structure du discours, vocabulaire approprié | **1**  |
-| **Total**                             |  | **10** |
+<table style={{ width: '100%', tableLayout: 'auto' }}>
+    <tr>
+        <th>Critère évalué</th>
+        <th>Description</th>
+        {['Absent', 'Insatisfaisant', 'Acceptable', 'Très satisfaisant', 'Excellent'].map((titre) => (
+            <th
+                style={{
+                    width: '1%',
+                    minWidth: '32px',
+                    height: '150px',
+                    verticalAlign: 'bottom',
+                    textAlign: 'center',
+                    padding: '4px',
+                }}
+            >
+                <div
+                    style={{
+                        writingMode: 'vertical-rl',
+                        transform: 'rotate(180deg)',
+                        whiteSpace: 'nowrap',
+                        margin: '0 auto',
+                    }}
+                >
+                    {titre}
+                </div>
+            </th>
+        ))}
+    </tr>
+    <tr>
+        <td><strong>Temps respecté</strong></td>
+        <td>
+            - Proportionnel aux autres membres de l’équipe, soit environ 3 à 4 minutes
+        </td>
+        <td>0</td><td>0,5</td><td>1</td><td>1,5</td><td>2</td>
+    </tr>
+    <tr>
+        <td><strong>Communication orale</strong></td>
+        <td>
+            - Diction claire et fluide
+            - Intonation, volume et débit appropriés
+            - Présentation dynamique et engageante
+        </td>
+        <td>0</td><td>0,5</td><td>1</td><td>1,5</td><td>2</td>
+    </tr>
+    <tr>
+        <td><strong>Cohérence de la partie présentée</strong></td>
+        <td>
+            - Bien structurée, compréhensible et liée au projet global
+            - Idées enchaînées logiquement
+            - Informations expliquées clairement
+        </td>
+        <td>0</td><td>0,5</td><td>1</td><td>1,5</td><td>2</td>
+    </tr>
+    <tr>
+        <td><strong>Support visuel</strong></td>
+        <td>
+            - Diapositives simples, lisibles et organisées
+            - Figures et images pertinentes, claires et appuyant efficacement le propos
+        </td>
+        <td>0</td><td>0,5</td><td>1</td><td>1,5</td><td>2</td>
+    </tr>
+    <tr>
+        <td><strong>Maîtrise du contenu</strong></td>
+        <td>
+            - Bonne compréhension
+            - Peut répondre clairement aux questions
+        </td>
+        <td>0</td><td>0,5</td><td>1</td><td>1,5</td><td>2</td>
+    </tr>
+    <tr>
+        <td><strong>Total</strong></td>
+        <td colSpan="6" style={{ textAlign: 'right' }}><strong>/ 10</strong></td>
+    </tr>
+</table>
+
+### 🧠 Participation individuelle
+Même si l’évaluation est **en équipe**, une participation manifestement inégale pourra être prise en compte.
+
+👉 Chaque membre doit :
+- comprendre l’ensemble du projet
+- répondre aux questions
 :::
 
 :::tip-nt
