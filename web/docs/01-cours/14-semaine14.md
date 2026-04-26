@@ -28,8 +28,8 @@ La présentation vise à vérifier que :
 :::tip-nt
 ### 🕒 Durée et format
 - Présentation **en équipe**
-- **8 à 10 minutes** de présentation
-- suivies de **5 minutes de questions**
+- **10 à 12 minutes** de présentation
+- suivies de **3 minutes de questions**
 - Support visuel obligatoire (diaporama)
 
 👉 Tous les membres de l’équipe doivent participer activement à la présentation, dans une répartition raisonnablement équilibrée du temps de parole.<br/>
@@ -86,13 +86,80 @@ Votre présentation doit couvrir, de manière synthétique :
 :::info-nt
 **Évaluation individuelle**
 
-| Critère évalué | Description | Points |
-|----------------|-------------|:------:|
-| **Compréhension du projet** | Capacité à démontrer une compréhension claire de la question de recherche, de la démarche et des objectifs globaux du projet | **5**  |
-| **Maîtrise de la partie présentée** | Capacité à expliquer clairement et correctement la partie du projet présentée (choix, résultats, enjeux, limites, etc.) | **5**  |
-| **Raisonnement et posture scientifique** | Capacité à justifier les choix, à interpréter ce qui est présenté et à adopter une posture critique et réfléchie | **5**  |
-| **Communication orale** | Clarté de l’expression, structure du discours, vocabulaire approprié, aisance générale | **5**  |
-| **Total** | | **20** |
+<table style={{ width: '100%', tableLayout: 'auto' }}>
+    <tr>
+        <th>Critère évalué</th>
+        <th>Description</th>
+        {['Absent', 'Insatisfaisant', 'Acceptable', 'Très satisfaisant', 'Excellent'].map((titre) => (
+            <th
+                style={{
+                    width: '1%',
+                    minWidth: '32px',
+                    height: '150px',
+                    verticalAlign: 'bottom',
+                    textAlign: 'center',
+                    padding: '4px',
+                }}
+            >
+                <div
+                    style={{
+                        writingMode: 'vertical-rl',
+                        transform: 'rotate(180deg)',
+                        whiteSpace: 'nowrap',
+                        margin: '0 auto',
+                    }}
+                >
+                    {titre}
+                </div>
+            </th>
+        ))}
+    </tr>
+    <tr>
+        <td><strong>Temps respecté</strong></td>
+        <td>
+            - Proportionnel aux autres membres de l’équipe, soit environ 3 à 4 minutes
+        </td>
+        <td>0</td><td>1</td><td>2</td><td>3</td><td>4</td>
+    </tr>
+    <tr>
+        <td><strong>Communication orale</strong></td>
+        <td>
+            - Diction claire et fluide
+            - Intonation, volume et débit appropriés
+            - Présentation dynamique et engageante
+        </td>
+        <td>0</td><td>1</td><td>2</td><td>3</td><td>4</td>
+    </tr>
+    <tr>
+        <td><strong>Cohérence de la partie présentée</strong></td>
+        <td>
+            - Bien structurée, compréhensible et liée au projet global
+            - Idées enchaînées logiquement
+            - Informations expliquées clairement
+        </td>
+        <td>0</td><td>1</td><td>2</td><td>3</td><td>4</td>
+    </tr>
+    <tr>
+        <td><strong>Support visuel</strong></td>
+        <td>
+            - Diapositives simples, lisibles et organisées
+            - Figures et images pertinentes, claires et appuyant efficacement le propos
+        </td>
+        <td>0</td><td>1</td><td>2</td><td>3</td><td>4</td>
+    </tr>
+    <tr>
+        <td><strong>Maîtrise du contenu</strong></td>
+        <td>
+            - Bonne compréhension
+            - Peut répondre clairement aux questions
+        </td>
+        <td>0</td><td>1</td><td>2</td><td>3</td><td>4</td>
+    </tr>
+    <tr>
+        <td><strong>Total</strong></td>
+        <td colSpan="6" style={{ textAlign: 'right' }}><strong>/ 20</strong></td>
+    </tr>
+</table>
 
 ### 🧠 Participation individuelle
 Même si l’évaluation est **en équipe**, une participation manifestement inégale pourra être prise en compte.
