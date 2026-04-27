@@ -6,15 +6,10 @@ hide_table_of_contents: true
 
 # 🎓 Salon des sciences
 
-:::tip-nt
-
 Le **Salon des sciences** est l’occasion, pour la cohorte finissante du programme Sciences de la nature, d’exposer ses réalisations dans différentes disciplines scientifiques et de les faire découvrir à la communauté du cégep et au grand public.
 
 Le **Salon des sciences** est suivi par le **Gala des sciences**, dès 20 h, durant lequel des prix seront décernés aux finissantes et finissants s’étant illustrés au cours de leur formation, ainsi qu’aux meilleurs projets de recherche présentés durant la journée.\
-L’attribution des prix par les membres du jury repose notamment sur la qualité scientifique du projet de recherche de même que sur celle de sa présentation orale.   
-
-
-:::
+L’attribution des prix par les membres du jury repose notamment sur la qualité scientifique du projet de recherche de même que sur celle de sa présentation orale.
 
 :::info-nt
 
