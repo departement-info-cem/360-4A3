@@ -92,7 +92,8 @@ const config = {
                 respectPrefersColorScheme: false,  // ignore le mode du système
             },
             navbar: {
-                title: siteConfig.nom,
+                // title: siteConfig.nom,
+                title: "4A3 (Projet scientifique de fin d'études)",
                 logo: {
                     alt: "Logo CEM",
                     src: "img/logo.svg",
@@ -115,6 +116,12 @@ const config = {
                         position: "left",
                         sidebarId: "methodes",
                         label: "Méthodes",
+                    },
+                    {
+                        type: "docSidebar",
+                        position: "left",
+                        sidebarId: "archives",
+                        label: "Archives",
                     },
                     {
                         label: "SN1 (Programmation)",
