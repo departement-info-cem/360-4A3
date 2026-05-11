@@ -3,5 +3,50 @@ title: H26 - Fentes de Young
 hide_table_of_contents: true
 ---
 
+import Row from "../../src/components/Row";
+import Column from "../../src/components/Column";
+
 # Simulations quantiques des fentes de Young
 
+<div
+    style={{
+        margin: "1.5rem 0 2rem 0",
+        padding: "1.25rem",
+        border: "1px solid var(--ifm-color-emphasis-300)",
+        borderRadius: "14px",
+        background: "var(--ifm-background-surface-color)",
+    }}
+>
+    <Row>
+        <Column>
+            <h3>Description</h3>
+
+            <p>
+                Simulation interactive de l'expérience des fentes de Young illustrant la
+                dualité onde-particule de la lumière, avec paramètres ajustables et mode
+                observateur.
+            </p>
+        </Column>
+
+        <Column>
+            <h3>Auteurs</h3>
+
+            <ul>
+                <li>Yahia Badi</li>
+                <li>Laurent Divry</li>
+                <li>Bin Hong Xu</li>
+            </ul>
+        </Column>
+    </Row>
+</div>
+
+<video
+    controls
+    style={{
+        width: "100%",
+        borderRadius: "12px",
+    }}
+>
+    <source src="/360-4A3/videos/Young_simulation.mp4" type="video/mp4" />
+    Votre navigateur ne supporte pas la lecture vidéo.
+</video>
