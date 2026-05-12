@@ -6,6 +6,9 @@ hide_table_of_contents: true
 import Row from "../../src/components/Row";
 import Column from "../../src/components/Column";
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Comment la rotation d'un trou noir influence-t-elle la lumière?
 
 <div
@@ -37,4 +40,88 @@ import Column from "../../src/components/Column";
         </Column>
     </Row>
 </div>
+
+
+
+<Tabs>
+
+    <TabItem value="trou1" label="Simulation 360° d'un trou noir statique sur un fond étoilé" default>
+        <video
+            controls
+            style={{
+                width: "100%",
+                borderRadius: "12px",
+            }}
+        >
+            <source src="/360-4A3/videos/projets_H26/blackhole_simulation_0_spin_web.mp4" type="video/mp4" />
+            Votre navigateur ne supporte pas la lecture vidéo.
+        </video>
+    </TabItem>
+
+    <TabItem value="trou2" label="Survol d'un trou noir sans rotation">
+        <video
+            controls
+            style={{
+                width: "100%",
+                borderRadius: "12px",
+            }}
+        >
+            <source src="/360-4A3/videos/projets_H26/blackhole_simulation_tourner_disque_orange_web.mp4" type="video/mp4" />
+            Votre navigateur ne supporte pas la lecture vidéo.
+        </video>
+    </TabItem>
+
+    <TabItem value="trou3" label="Survol d'un trou noir avec rotation maximale">
+        <video
+            controls
+            style={{
+                width: "100%",
+                borderRadius: "12px",
+            }}
+        >
+            <source src="/360-4A3/videos/projets_H26/blackhole_simulation2_web.mp4" type="video/mp4" />
+            Votre navigateur ne supporte pas la lecture vidéo.
+        </video>
+    </TabItem>
+
+    <TabItem value="trou4" label="Accélération de la rotation d'un trou noir sur lui-même">
+        <video
+            controls
+            style={{
+                width: "100%",
+                borderRadius: "12px",
+            }}
+        >
+            <source src="/360-4A3/videos/projets_H26/blackhole_simulation24fps_web.mp4" type="video/mp4" />
+            Votre navigateur ne supporte pas la lecture vidéo.
+        </video>
+    </TabItem>
+
+    <TabItem value="trou5" label="Décalage gravitationnel vers le rouge">
+        <img
+            src="/360-4A3/img/projets_H26/blackhole_redshift.png"
+            style={{
+                width: "100%",
+                borderRadius: "12px",
+            }}
+        />
+
+    </TabItem>
+
+</Tabs>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
