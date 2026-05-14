@@ -47,6 +47,8 @@ import TabItem from '@theme/TabItem';
 
     <TabItem value="trou1" label="Simulation 360° d'un trou noir statique sur un fond étoilé" default>
         <video
+            autoPlay
+            muted
             controls
             style={{
                 width: "100%",
@@ -54,45 +56,6 @@ import TabItem from '@theme/TabItem';
             }}
         >
             <source src="/360-4A3/videos/projets_H26/blackhole_simulation_0_spin_web.mp4" type="video/mp4" />
-            Votre navigateur ne supporte pas la lecture vidéo.
-        </video>
-    </TabItem>
-
-    <TabItem value="trou2" label="Survol d'un trou noir sans rotation">
-        <video
-            controls
-            style={{
-                width: "100%",
-                borderRadius: "12px",
-            }}
-        >
-            <source src="/360-4A3/videos/projets_H26/blackhole_simulation_tourner_disque_orange_web.mp4" type="video/mp4" />
-            Votre navigateur ne supporte pas la lecture vidéo.
-        </video>
-    </TabItem>
-
-    <TabItem value="trou3" label="Survol d'un trou noir avec rotation maximale">
-        <video
-            controls
-            style={{
-                width: "100%",
-                borderRadius: "12px",
-            }}
-        >
-            <source src="/360-4A3/videos/projets_H26/blackhole_simulation2_web.mp4" type="video/mp4" />
-            Votre navigateur ne supporte pas la lecture vidéo.
-        </video>
-    </TabItem>
-
-    <TabItem value="trou4" label="Accélération de la rotation d'un trou noir sur lui-même">
-        <video
-            controls
-            style={{
-                width: "100%",
-                borderRadius: "12px",
-            }}
-        >
-            <source src="/360-4A3/videos/projets_H26/blackhole_simulation24fps_web.mp4" type="video/mp4" />
             Votre navigateur ne supporte pas la lecture vidéo.
         </video>
     </TabItem>
@@ -106,6 +69,61 @@ import TabItem from '@theme/TabItem';
             }}
         />
 
+    </TabItem>
+
+    <TabItem value="trou2" label="Comparaison des modèles de trou noir statique / avec rotation">
+        <Row>
+            <Column>
+                <h4 style={{ textAlign: "center"}}>
+                    Survol d'un trou noir sans rotation
+                </h4>
+                <video
+                    autoPlay
+                    muted
+                    controls
+                    style={{
+                        width: "100%",
+                        borderRadius: "12px",
+                    }}
+                >
+                    <source src="/360-4A3/videos/projets_H26/blackhole_simulation_tourner_disque_orange_web.mp4" type="video/mp4" />
+                    Votre navigateur ne supporte pas la lecture vidéo.
+                </video>
+            </Column>
+
+            <Column>
+                <h4 style={{ textAlign: "center"}}>
+                    Survol d'un trou noir avec rotation maximale
+                </h4>
+                <video
+                    autoPlay
+                    muted
+                    controls
+                    style={{
+                        width: "100%",
+                        borderRadius: "12px",
+                    }}
+                >
+                    <source src="/360-4A3/videos/projets_H26/blackhole_simulation2_web.mp4" type="video/mp4" />
+                    Votre navigateur ne supporte pas la lecture vidéo.
+                </video>
+            </Column>
+        </Row>
+    </TabItem>
+
+    <TabItem value="trou4" label="Accélération de la rotation d'un trou noir sur lui-même">
+        <video
+            autoPlay
+            muted
+            controls
+            style={{
+                width: "100%",
+                borderRadius: "12px",
+            }}
+        >
+            <source src="/360-4A3/videos/projets_H26/blackhole_simulation24fps_web.mp4" type="video/mp4" />
+            Votre navigateur ne supporte pas la lecture vidéo.
+        </video>
     </TabItem>
 
 </Tabs>
