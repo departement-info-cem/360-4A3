@@ -1,10 +1,8 @@
 ---
-title: Semaine 14
-description: Auto-évaluation (10%)
+title: 🔍 Auto-évaluation (10%)
+description: Semaine 15
 hide_table_of_contents: true
 ---
-
-# 🔍 Auto-évaluation (10%)
 
 Vous allez réaliser une **auto-évaluation individuelle** de votre démarche et de votre contribution au projet scientifique.
 

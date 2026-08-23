@@ -1,9 +1,7 @@
 ---
-title: Semaine 6
-description: Présentation du projet proposé (10%)
+title: 🎤 Présentation du projet proposé (10%)
+description: Semaine 6
 ---
-
-# 🎤 Présentation du projet (10%)
 
 Cette semaine, chaque équipe présente **oralement** son **projet de recherche proposé**.
 

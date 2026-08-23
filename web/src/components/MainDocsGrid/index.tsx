@@ -52,6 +52,9 @@ export default function MainDocsGrid() {
     if (className && className.includes("examen")) {
       return "var(--examen-bg)";
     }
+    if (className && className.includes("salonjaune")) {
+        return "var(--ifm-color-warning-contrast-background)";
+    }
     if (className && className.includes("salon")) {
       return "var(--ifm-color-info-contrast-background)";
     }
@@ -115,8 +118,10 @@ export default function MainDocsGrid() {
             }}
           >
             <div>
-              <h3>{doc?.title || doc?._sidebarLabel || doc?.id}</h3>
-              <p>{doc?.description || ""}</p>
+              <h3>
+                  {doc?.description || doc?.title || doc?._sidebarLabel || doc?.id}
+              </h3>
+              <p>{doc?.title || doc?.description || ""}</p>
             </div>
             <div>
               {typeof doc?._sidebarProps?.avancement === "number" && (
@@ -145,14 +150,15 @@ export default function MainDocsGrid() {
                     : " " + styles.tooltipRight)
                 }
               >
-                <strong>Calendrier :</strong>
+                {/*<strong>Calendrier :</strong>*/}
                 <ul style={{ margin: 0, paddingLeft: 16, whiteSpace: "nowrap" }}>
                   {Object.entries(calendrier).map(([nom, groupedate]) => (
                     (groupedate as Array<Record<string, string>>).map((groupeObj, index) => {
                         const [groupe, date] = Object.entries(groupeObj)[0];
                         return (
                           <li key={index} style={{ whiteSpace: "nowrap" }}>
-                            {nom} - {groupe} : {formatDateFr(date)}
+                            {/*{nom} - {groupe} : {formatDateFr(date)}*/}
+                            {formatDateFr(date)}
                           </li>
                         );
                       })

@@ -1,10 +1,8 @@
 ---
-title: Salon des sciences
-description: Salon des sciences
+title: 🎓 Salon des sciences
+description: Semaine 13
 hide_table_of_contents: true
 ---
-
-# 🎓 Salon des sciences
 
 Le **Salon des sciences** est l’occasion, pour la cohorte finissante du programme Sciences de la nature, d’exposer ses réalisations dans différentes disciplines scientifiques et de les faire découvrir à la communauté du cégep et au grand public.
 

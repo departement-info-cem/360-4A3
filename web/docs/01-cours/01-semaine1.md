@@ -1,9 +1,7 @@
 ---
-title: Semaine 1
-description: Lancement du projet scientifique
+title: 🚀 Lancement du projet scientifique
+description: Semaine 1
 ---
-
-# 🚀 Lancement du projet scientifique
 
 :::info-nt
 ### 🎯 Objectifs

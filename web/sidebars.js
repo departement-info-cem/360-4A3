@@ -5,185 +5,28 @@ const sidebars = {
   docs: [
     {
       type: "doc",
-      label: "1 - Lancement du projet",
+      label: "1 - 🚀 Lancement du projet",
       id: "cours/semaine1", // Doit matcher le nom du document qui est dans docs/01-cours/. Les chiffres au début (ex : 01-) sont ignorés.
       customProps: { // Attention, il faut recompiler à chaque modification dans sidebar.js pour que les modifications s'appliquent.
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-01-26"}  // Date du cours pour le groupe 1010 du le Prof 1
+            {"1010": "2026-08-25"}  // Date du cours pour le groupe 1010 du le Prof 1
           ]
         },
         tooltip: "visible" // Valeurs possibles visible ou cache, valeur par défaut "visible"
-      }
-    },
-    {
-      type: "doc",
-      label: "2 - Exploration et cadrage",
-      id: "cours/semaine2",
-      customProps: {
-        calendrier: {
-          "Calendrier": [
-            {"1010": "2026-02-02"}
-          ]
-        }
-      }
-    },
-    {
-      type: "doc",
-      label: "3 - Exploration et cadrage",
-      id: "cours/semaine2",
-      customProps: {
-        calendrier: {
-          "Calendrier": [
-            {"1010": "2026-02-09"}
-          ]
-        }
-      }
-    },
-    {
-      type: "doc",
-      label: "4 - Exploration et cadrage",
-      id: "cours/semaine2",
-      customProps: {
-        calendrier: {
-          "Calendrier": [
-            {"1010": "2026-02-16"}
-          ]
-        }
-      }
-    },
-    {
-      type: "doc",
-      label: "5 - Proposition de projet (10%)",
-      id: "cours/semaine5",
-      customProps: {
-        calendrier: {
-          "Calendrier": [
-            {"1010": "2026-02-23"}
-          ]
-        }
       },
       "className": "remise-tp"
     },
     {
       type: "doc",
-      label: "6 - Présentation projet (10%)",
-      id: "cours/semaine6",
+      label: "2-4  🔍 Exploration (10%)",
+      id: "cours/semaine2",
       customProps: {
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-03-02"}
-          ]
-        }
-      },
-      "className": "examen"
-    },
-    {
-      type: "doc",
-      label: "7 - Développement et analyse",
-      id: "cours/semaine7",
-      customProps: {
-        calendrier: {
-          "Calendrier": [
-            {"1010": "2026-03-09"}
-          ]
-        }
-      }
-    },
-    {
-      type: "doc",
-      label: "8 - Développement et analyse",
-      id: "cours/semaine7",
-      customProps: {
-        calendrier: {
-          "Calendrier": [
-            {"1010": "2026-03-23"}
-          ]
-        }
-      }
-    },
-    {
-      type: "doc",
-      label: "9 - Développement et analyse",
-      id: "cours/semaine7",
-      customProps: {
-        calendrier: {
-          "Calendrier": [
-            {"1010": "2026-03-30"}
-          ]
-        }
-      }
-    },
-    {
-      type: "doc",
-      label: "10 - Développement et analyse",
-      id: "cours/semaine7",
-      customProps: {
-        calendrier: {
-          "Calendrier": [
-            {"1010": "2026-04-20"}
-          ]
-        }
-      }
-    },
-    // {
-    //   type: "doc",
-    //   label: "11 - Développement et analyse",
-    //   id: "cours/semaine7",
-    //   customProps: {
-    //     calendrier: {
-    //       "Calendrier": [
-    //         {"1010": "2026-04-27"}
-    //       ]
-    //     }
-    //   }
-    // },
-    // {
-    //   type: "doc",
-    //   label: "12 - Développement et analyse",
-    //   id: "cours/semaine7",
-    //   customProps: {
-    //     calendrier: {
-    //       "Calendrier": [
-    //         {"1010": "2026-05-04"}
-    //       ]
-    //     }
-    //   }
-    // },
-    {
-      type: "doc",
-      label: "11 - Rapport recherche (25%)",
-      id: "cours/semaine13",
-      customProps: {
-        calendrier: {
-          "Calendrier": [
-            {"1010": "2026-04-27"}
-          ]
-        }
-      },
-      "className": "remise-tp"
-    },
-    {
-      type: "doc",
-      label: "12 - Présentation finale (20%)",
-      id: "cours/semaine14",
-      customProps: {
-        calendrier: {
-          "Calendrier": [
-            {"1010": "2026-05-04"}
-          ]
-        }
-      },
-      "className": "examen"
-    },
-    {
-      type: "doc",
-      label: "13 - Salon des sciences",
-      id: "cours/semaine16",
-      customProps: {
-        calendrier: {
-          "Calendrier": [
-            {"1010": "2026-05-06"}
+            {"2-4": "2026-09-01"},
+            {"2-4": "2026-09-08"},
+            {"2-4": "2026-09-15"}
           ]
         }
       },
@@ -191,12 +34,95 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "14 - Auto-évaluation (10%)",
+      label: "5 - 📝 Proposition (10%)",
+      id: "cours/semaine5",
+      customProps: {
+        calendrier: {
+          "Calendrier": [
+            {"1010": "2026-09-22"}
+          ]
+        }
+      },
+      "className": "salonjaune"
+    },
+    {
+      type: "doc",
+      label: "6 - 🎤 Présentation (10%)",
+      id: "cours/semaine6",
+      customProps: {
+        calendrier: {
+          "Calendrier": [
+            {"1010": "2026-09-29"}
+          ]
+        }
+      },
+      "className": "examen"
+    },
+    {
+      type: "doc",
+      label: "7-12  🛠️ Développement (15%)",
+      id: "cours/semaine7",
+      customProps: {
+        calendrier: {
+          "Calendrier": [
+            {"1010": "2026-10-20"},
+            {"1010": "2026-10-27"},
+            {"1010": "2026-11-03"},
+            {"1010": "2026-11-10"},
+            {"1010": "2026-11-17"},
+            {"1010": "2026-11-24"}
+          ]
+        }
+      },
+      "className": "salon"
+    },
+    {
+      type: "doc",
+      label: "13 - 📘 Rapport (25%)",
+      id: "cours/semaine13",
+      customProps: {
+        calendrier: {
+          "Calendrier": [
+            {"1010": "2026-12-01"}
+          ]
+        }
+      },
+      "className": "salonjaune"
+    },
+    {
+      type: "doc",
+      label: "14 - 🎓 Présentation (20%)",
+      id: "cours/semaine14",
+      customProps: {
+        calendrier: {
+          "Calendrier": [
+            {"1010": "2026-12-08"}
+          ]
+        }
+      },
+      "className": "examen"
+    },
+    // {
+    //   type: "doc",
+    //   label: "13 - 🎓 Salon des sciences",
+    //   id: "cours/semaine16",
+    //   customProps: {
+    //     calendrier: {
+    //       "Calendrier": [
+    //         {"1010": "2026-12-01"}
+    //       ]
+    //     }
+    //   },
+    //   "className": "salon"
+    // },
+    {
+      type: "doc",
+      label: "15 - 🔍 Auto-évaluation (10%)",
       id: "cours/semaine15",
       customProps: {
         calendrier: {
           "Calendrier": [
-            {"1010": "2026-05-11"}
+            {"1010": "2026-12-22"}
           ]
         }
       },

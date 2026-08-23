@@ -1,11 +1,9 @@
 ---
-title: Semaine 11
-description: Rapport de recherche (25%)
+title: 📘 Rapport de recherche (25%)
+description: Semaine 13
 ---
 
-# 📘 Rapport de recherche (25%)
-
-La semaine 11 marque l’aboutissement de votre **projet scientifique**.
+La semaine 13 marque l’aboutissement de votre **projet scientifique**.
 
 Vous devez remettre un **rapport de recherche écrit**, qui présente de façon claire, structurée et rigoureuse :
 - votre **question de recherche**

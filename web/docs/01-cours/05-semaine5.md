@@ -1,9 +1,7 @@
 ---
-title: Semaine 5
-description: Proposition de projet (10%)
+title: 📝 Proposition de projet (10%)
+description: Semaine 5
 ---
-
-# 📝 Proposition de projet (10%)
 
 Cette semaine marque un **jalon important** du cours.
 

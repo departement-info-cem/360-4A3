@@ -1,11 +1,9 @@
 ---
-title: Semaine 12
-description: Présentation finale du projet (20%)
+title: 🎓 Présentation finale (20%)
+description: Semaine 14
 ---
 
-# 🎓 Présentation finale (20%)
-
-La semaine 12 est consacrée à la **présentation finale** de votre projet scientifique.
+La semaine 14 est consacrée à la **présentation finale** de votre projet scientifique.
 
 Vous devez présenter **l’ensemble de votre démarche**, depuis la question de recherche jusqu’à l’analyse des résultats, de façon claire, structurée et accessible.
 

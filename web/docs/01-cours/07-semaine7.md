@@ -1,11 +1,9 @@
 ---
-title: Semaines 7 à 10
-description: Développement et analyse
+title: 🛠️ Développement et analyse (15%)
+description: Semaines 7 à 12
 ---
 
-# 🛠️ Développement et analyse
-
-Les semaines 7 à 10 constituent le **cœur du projet scientifique**.
+Les semaines 7 à 12 constituent le **cœur du projet scientifique**.
 
 C’est durant cette période que vous allez :
 - mettre en œuvre votre **démarche scientifique**

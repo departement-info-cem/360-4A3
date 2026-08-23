@@ -1,9 +1,7 @@
 ---
-title: Semaines 2 à 4
-description: Exploration et cadrage
+title: 🔍 Exploration et cadrage du projet (10%)
+description: Semaines 2 à 4
 ---
-
-# 🔍 Exploration et cadrage du projet
 
 Les semaines 2 à 4 sont consacrées à l’**exploration**, au **raffinement** et au **cadrage scientifique** de votre projet.
 

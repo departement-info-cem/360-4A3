@@ -50,6 +50,11 @@
   color: var(--ifm-color-info-contrast-foreground);
 }
 
+.salonjaune {
+  background-color: var(--ifm-color-warning-contrast-background);
+  color: var(--ifm-color-warning-contrast-foreground);
+}
+
 .remise-tp {
   background-color: var(--remise-tp-bg);
   color: var(--remise-tp-font-color);

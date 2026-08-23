@@ -113,7 +113,8 @@ export default function MainDocsCalendar({
           const [groupe, date] = Object.entries(groupeObj)[0];
           events.push({
             id: doc.id, // Utiliser directement l'ID du document
-            title: groupe + " - " + (doc?.title || doc?._sidebarLabel || doc?.id),
+            // title: groupe + " - " + (doc?.title || doc?._sidebarLabel || doc?.id),
+            title: (doc?._sidebarLabel || doc?.title || doc?.id),
             description: doc?.description || "",
             date: date as string,
             className: doc._sidebarClassName,
