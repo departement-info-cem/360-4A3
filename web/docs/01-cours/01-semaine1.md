@@ -152,7 +152,7 @@ Les grilles de ces évaluations sont disponibles sur la page de chaque évaluati
 Chaque équipe devra créer un **repo GitHub commun** pour le projet.  
 
 Aussitôt votre équipe formée :
-- **Un membre** doit créer le repo GitHub et inviter les autres membres de l’équipe à y collaborer.
+- **Un membre** doit [créer le repo GitHub et inviter les autres membres de l’équipe à y collaborer](https://info.cegepmontpetit.ca/420-SN1/recettes/creer-repertoire-github).
 - Tous les membres de l’équipe doivent avoir des **droits d’écriture** sur ce repo.
 - Votre repo doit être **privé** pour protéger la confidentialité de votre travail.
 - Vous devez aussi m’inviter comme collaborateur!
@@ -169,8 +169,9 @@ Chaque projet :
 - peut être abordé selon différents angles
 - devra être **délimité et validé**
 
-👉 Vous n’êtes **pas obligés** de suivre un projet à la lettre :  
-vous devrez le **transformer en question de recherche** adaptée à vos intérêts et aux données disponibles.
+👉 Vous n’êtes **pas obligés** de suivre un projet à la lettre : vous devrez le **transformer en question de recherche** adaptée à vos intérêts et aux données disponibles.
+
+👉 Vous pouvez aussi proposer un **projet original** qui n’est pas dans la liste, mais il devra être **validé par moi** avant d’être poursuivi.
 :::
 
 :::tip-nt

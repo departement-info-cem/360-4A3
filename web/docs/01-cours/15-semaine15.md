@@ -40,8 +40,6 @@ Le sondage servira à améliorer le cours pour la prochaine cohorte.
 
 - Les réponses doivent faire référence à des éléments concrets du projet : tâches réalisées, décisions prises, difficultés rencontrées, apprentissages, ajustements ou limites observées.
 
-- La présence à ce cours est attendue, puisque l’auto-évaluation sera finalisée en classe et que vous devrez aussi remplir le sondage de rétroaction sur le cours.
-
 :::
 
 ## ✍️ Questions

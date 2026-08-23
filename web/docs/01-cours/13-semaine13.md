@@ -1,199 +1,268 @@
 ---
-title: 📘 Rapport de recherche (25%)
+title: 📄 Article scientifique (25%)
 description: Semaine 13
 ---
 
 La semaine 13 marque l’aboutissement de votre **projet scientifique**.
 
-Vous devez remettre un **rapport de recherche écrit**, qui présente de façon claire, structurée et rigoureuse :
-- votre **question de recherche**
+Vous devez remettre un **article scientifique** présentant de façon claire, concise et rigoureuse :
+
+- votre **problématique et votre question de recherche**
 - votre **démarche scientifique**
 - vos **résultats**
-- votre **analyse critique**
+- votre **interprétation des résultats**
+- les **limites** de votre étude
 
-👉 Ce rapport n’est **pas** un simple compte rendu technique :  
-c’est une **démonstration de votre capacité à mener et communiquer une démarche scientifique** en informatique.
+👉 L’objectif n’est pas simplement de décrire ce que vous avez fait, mais de **communiquer une démarche scientifique et les connaissances que vous en avez tirées**, comme on le ferait dans une publication scientifique.
 
 :::info-nt
-## 🎯 Objectifs du rapport
-Le rapport vise à vérifier que :
-- votre question de recherche est **claire et pertinente**
-- la démarche scientifique est **cohérente et justifiée**
-- les résultats sont **présentés et analysés rigoureusement**
-- les limites du projet sont **identifiées et discutées**
-- le travail est **bien structuré et compréhensible**
+## 🎯 Objectifs de l'article
 
-👉 Le rapport doit permettre à quelqu’un d’autre de **comprendre votre projet sans vous avoir entendus**.
+Votre article doit permettre au lecteur de comprendre :
+
+- **pourquoi** vous avez réalisé cette étude
+- **quelle question** vous avez cherché à résoudre
+- **comment** vous avez procédé
+- **quels résultats** vous avez obtenus
+- **ce que ces résultats signifient**
+- quelles sont les **limites** de votre démarche
+
+👉 Une personne qui n'a pas suivi votre projet devrait pouvoir comprendre votre recherche uniquement en lisant votre article.
 :::
 
 ## 📌 Modalités
 
 :::tip-nt
-### 📄 Format du document
+### 📄 Format
+
 - Travail **en équipe**
-- Rapport écrit structuré
-- Format au choix :
-  - [**Typst**](/methodes/typst) (recommandé)
-  - [**LaTeX**](/methodes/latex)
-  - **Word**
-- Des gabarits sont disponibles dans la section *Méthodes* pour vous aider à démarrer avec [Typst](/methodes/typst) ou [LaTeX](/methodes/latex).
+- Article rédigé à l'aide du **gabarit Typst fourni**
+- Rédaction et collaboration dans **Typst Web**
+- Remise en format **PDF**
+- Mise en page scientifique en **deux colonnes**
+- **Maximum 6 pages**, références exclues
 
-👉 Le PDF remis est le document évalué.
+Le gabarit fourni détermine la mise en page du document. Vous ne devez pas modifier ses paramètres généraux de mise en page.
 
-👉 Vous devez respecter les [normes de présentation matérielle des travaux écrits du cégep](https://rmsh.cegepmontpetit.ca/normes-de-presentation-materielle-des-travaux-ecrits-du-cegep/).
+👉 Votre article doit être suffisamment développé pour présenter et justifier votre démarche, vos résultats et leur interprétation, tout en demeurant **clair et concis**.
+
+**Qualité > quantité.** Un bon article scientifique ne présente que les informations utiles à la compréhension et à l'évaluation de l'étude.
 :::
 
-:::warning-nt
-### 📏 Longueur attendue
-- **10 à 15 pages maximum** (excluant les références, la page de titre, etc.)
-- Qualité > quantité
-- Clarté et rigueur scientifique priorisées
-
-👉 Un rapport répétitif ou mal structuré sera pénalisé.
-:::
-
-## 🧩 Structure attendue du rapport
+## 🧩 Structure de l'article
 
 :::info-nt
-### 1. Introduction et contexte
-Présentez :
-- le contexte général du projet
-- le phénomène ou problème étudié
-- la motivation scientifique du projet
+### Titre
 
-👉 Cette section répond à la question :  
-**« Pourquoi ce projet mérite-t-il d’être étudié? »**
+Le titre doit décrire clairement et précisément le sujet de votre étude.
+
+Évitez les titres trop généraux comme *Projet sur les tremblements de terre*.
+
+Un bon titre permet au lecteur de comprendre immédiatement **ce qui a été étudié**.
 :::
 
 :::info-nt
-### 2. Question de recherche
-Formulez clairement :
-- la **question de recherche principale**
-- la ou les sous-question(s)
+### Résumé — Abstract
 
-👉 La question doit être :
-- précise
-- mesurable
-- cohérente avec une expérience numérique
+En **150 à 250 mots**, résumez l'ensemble de votre étude :
+
+- le contexte ou le problème étudié
+- la question ou l'objectif de recherche
+- la méthode utilisée
+- les principaux résultats
+- la principale conclusion
+
+⚠️ Le résumé doit pouvoir être compris **sans lire le reste de l'article**.
+
+Il est généralement plus facile de le rédiger **à la toute fin**, lorsque l'article est terminé.
+:::
+
+:::info-nt
+### Mots-clés — Keywords
+
+Indiquez **4 à 6 mots-clés** permettant d'identifier rapidement les principaux sujets de votre étude.
+:::
+
+:::info-nt
+## 1. Introduction
+
+L'introduction présente progressivement le problème étudié.
+
+Elle doit notamment permettre de comprendre :
+
+- le contexte scientifique
+- le phénomène ou le problème étudié
+- pourquoi ce problème est intéressant
+- ce qui est déjà connu ou nécessaire pour comprendre votre étude
+- votre **question de recherche**
+- l'objectif de votre étude
+
+La question de recherche doit être **claire, précise et compatible avec une expérience numérique**.
 
 📌 Référez-vous à [Formuler de bonnes questions de recherche](/methodes/questions-recherche).
+
+👉 À la fin de l'introduction, le lecteur devrait comprendre **pourquoi l'étude a été réalisée et ce que vous cherchez à découvrir**.
 :::
 
 :::info-nt
-### 3. Données ou expérience
-Décrivez :
-- les données utilisées (réelles ou générées)
-- leur provenance ou leur méthode de génération
-- les choix effectués
-- les limites connues des données ou de l’expérience
+## 2. Méthodologie
 
-📌 Référez-vous à [Comment évaluer la qualité d’un jeu de données?](/methodes/source-donnees).
-:::
+Expliquez **comment vous avez réalisé votre étude**.
 
-:::info-nt
-### 4. Méthodologie
-Expliquez :
-- la démarche scientifique suivie
-- les étapes de l’expérience numérique
+Selon votre projet, cette section peut présenter :
+
+- les données utilisées et leur provenance
+- la manière dont les données ont été préparées ou transformées
+- la méthode de génération des données, dans le cas d'une simulation
 - les algorithmes, modèles ou simulations utilisés
-- les paramètres étudiés (si applicable)
+- les paramètres étudiés
+- les expériences ou comparaisons réalisées
+- les choix méthodologiques importants
 
-**⚠️ Attention : ne pas mettre pas du code dans votre rapport!**  
-👉 Cette section doit permettre de **comprendre comment vous avez procédé**, pas de reproduire votre code.
+📌 Référez-vous à [Comment évaluer la qualité d'un jeu de données?](/methodes/source-donnees), lorsque pertinent.
+
+Votre méthodologie doit être suffisamment précise pour permettre à quelqu'un de **comprendre et évaluer votre démarche**.
+
+**⚠️ Ne mettez pas votre code Python dans l'article.**
+
+Vous devez expliquer la **méthode**, et non reproduire le programme.
 :::
 
 :::info-nt
-### 5. Résultats
-Présentez :
-- les résultats obtenus
-- des tableaux, graphiques ou visualisations pertinents
-- des comparaisons claires
+## 3. Résultats
 
-👉 Les résultats doivent être **lisibles et compréhensibles**, même sans interprétation immédiate.
+Présentez les résultats nécessaires pour répondre à votre question de recherche.
+
+Utilisez lorsque pertinent :
+
+- graphiques
+- figures
+- tableaux
+- images
+- mesures
+- comparaisons
+
+Sélectionnez les résultats **importants**. Il n'est pas nécessaire de présenter toutes les données produites pendant le projet.
+
+### Figures et tableaux
+
+Chaque figure ou tableau doit :
+
+- être numéroté
+- avoir une légende claire
+- être mentionné dans le texte
+- être suffisamment lisible
+- apporter une information utile à l'étude
+
+👉 Une figure ne doit jamais simplement être déposée dans l'article : **le texte doit expliquer ce que le lecteur doit y observer**.
 :::
 
 :::info-nt
-### 6. Analyse et discussion
-Analysez vos résultats :
-- interprétez ce que vous observez
-- reliez les résultats à la question de recherche
-- discutez des tendances, limites et surprises
+## 4. Discussion
 
-👉 Cette section est **centrale** dans un projet scientifique.
-:::
+La discussion constitue une des parties les plus importantes de votre article.
 
-:::info-nt
-### 7. Limites et pistes futures
-Discutez :
-- des limites méthodologiques
-- des biais possibles
+Vous devez **interpréter** vos résultats plutôt que simplement les répéter.
+
+Discutez notamment :
+
+- de ce que montrent vos résultats
+- de leur lien avec votre question de recherche
+- des tendances ou comportements observés
+- des résultats inattendus
+- des explications possibles
+- des limites des données, du modèle ou de la méthode
+- des biais ou sources d'incertitude
 - de ce qui pourrait être amélioré
-- des pistes pour prolonger le projet
+- des expériences qui pourraient prolonger votre étude
 
-👉 Identifier des limites est un **signe de rigueur scientifique**.
+👉 Obtenir un résultat imparfait ou identifier une limite **n'est pas un échec**. Reconnaître et expliquer les limites d'une étude fait partie de la démarche scientifique.
 :::
 
 :::info-nt
-### 8. Conclusion
-Résumez :
-- la démarche
+## 5. Conclusion
+
+La conclusion répond directement à votre **question de recherche**.
+
+Résumez brièvement :
+
+- ce que votre étude a permis d'observer
 - les principaux résultats
-- ce que vous avez appris
+- ce que vous pouvez raisonnablement en conclure
 
-👉 La conclusion doit répondre clairement à la question de recherche.
+N'introduisez pas de nouveaux résultats dans cette section.
 :::
 
 :::info-nt
-### 9. Références
-Incluez :
-- les sources de données
-- les ressources scientifiques ou de vulgarisation utilisées
-- toute documentation pertinente
+## Références
 
-👉 Les références doivent être **claires et traçables**.
+Toutes les sources utilisées doivent être citées dans le texte et apparaître dans la liste des références.
+
+Cela comprend notamment :
+
+- articles scientifiques
+- livres
+- sites ou ressources scientifiques
+- documentation pertinente
+- sources des jeux de données
+
+Les références doivent permettre au lecteur de **retrouver la source originale**.
+
+Le gabarit Typst fourni gère automatiquement la présentation de la bibliographie.
 :::
+
+## ✍️ Style scientifique
 
 :::tip-nt
-## 📝 Conseils de rédaction
-- Rédigez dans un style clair et concis
-- Utilisez vos propres mots, évitez le jargon inutile
-- Structurez bien vos paragraphes et sections
-- Illustrez vos propos avec des figures ou tableaux pertinents
+Un article scientifique doit être **clair, précis et concis**.
 
-Pour vous aider avec les tailles des différentes sections, de manière générale, les sections les plus longues et importantes sont la **Méthodologie**, les **Résultats** et l’**Analyse et discussion**.
+- Évitez les répétitions.
+- Évitez le jargon inutile.
+- Appuyez vos affirmations importantes sur vos résultats ou sur des références.
+- Utilisez des figures lorsqu'elles communiquent mieux l'information qu'un long paragraphe.
+- Donnez un titre clair aux axes de vos graphiques et indiquez les unités.
+- Utilisez un nombre raisonnable de chiffres significatifs.
+- Faites référence aux figures et tableaux dans votre texte.
+- Relisez attentivement votre article.
 
-Les sections **Introduction**, **Question de recherche**, **Données/Expérience**, **Limites et pistes futures** et **Conclusion** sont généralement relativement plus courtes.
+👉 Votre objectif n'est pas de montrer **tout ce que vous avez fait**, mais de présenter **ce qui est nécessaire pour comprendre et évaluer votre étude**.
 :::
 
-## 🧮 Grille d’évaluation (25%)
+## 🧮 Grille d'évaluation (25%)
 
 :::info-nt
+
 | Section évaluée | Description | Points |
-|-----------------|-------------|:------:|
-| **Introduction et contexte** | Clarté du contexte, compréhension du phénomène étudié et pertinence scientifique | **2** |
-| **Question de recherche** | Question claire, précise, mesurable et cohérente avec la démarche | **2** |
-| **Données / expérience** | Pertinence, compréhension et justification des données ou de l’expérience numérique | **2** |
-| **Méthodologie** | Démarche scientifique claire, cohérente et bien expliquée | **5** |
-| **Résultats** | Qualité, clarté et pertinence des résultats présentés (figures, tableaux, comparaisons) | **4** |
-| **Analyse et discussion** | Interprétation critique des résultats, liens avec la question et réflexion scientifique | **5** |
-| **Limites et pistes futures** | Identification pertinente des limites et ouverture vers des améliorations possibles | **1** |
-| **Références** | Références pertinentes, correctement citées et en lien avec le projet | **1** |
-| **Structure et qualité du document** | Organisation, structure logique, lisibilité globale | **1** |
-| **Qualité du français écrit** | Clarté de l’écriture, qualité du français | **2** |
+|---|---|:---:|
+| **Introduction et question de recherche** | Contexte scientifique, problématique, pertinence et formulation claire de la question de recherche | **4** |
+| **Méthodologie** | Démarche scientifique claire, cohérente, justifiée et suffisamment expliquée | **6** |
+| **Résultats** | Qualité, sélection et présentation des résultats; pertinence des figures, tableaux et comparaisons | **4** |
+| **Discussion** | Interprétation critique des résultats, liens avec la question de recherche, limites et réflexion scientifique | **5** |
+| **Conclusion** | Réponse claire et cohérente à la question de recherche | **1** |
+| **Références** | Sources pertinentes, correctement citées et traçables | **1** |
+| **Communication scientifique** | Organisation, concision, qualité des figures et tableaux, légendes et lisibilité générale | **2** |
+| **Qualité du français écrit** | Clarté de l'écriture et qualité du français | **2** |
 | **Total** | | **25** |
+
 :::
 
 :::tip-nt
-## 🧠 Conseils importants
-- Commencez la rédaction **bien avant la semaine 11**
-- Rédigez certaines sections **au fil du projet**
-- Utilisez les rencontres hebdomadaires pour valider vos choix
-- Relisez-vous attentivement
+## 🧠 Quelques conseils
 
-👉 Un rapport clair et bien structuré est souvent le reflet d’un projet bien compris.
+- Commencez à rédiger **avant d'avoir terminé toutes vos expériences**
+- Rédigez la méthodologie pendant que votre démarche est encore fraîche dans votre mémoire
+- Construisez vos figures au fur et à mesure
+- Utilisez les rencontres hebdomadaires pour valider votre question, votre méthodologie et l'interprétation de vos résultats
+- Rédigez le **résumé en dernier**
+- Relisez l'article comme si vous découvriez le projet pour la première fois
+
+👉 Un article scientifique réussi raconte une histoire simple :
+
+**Pourquoi? → Comment? → Qu'avez-vous trouvé? → Qu'est-ce que cela signifie?**
 :::
 
 :::tip-nt
 ## 👉 Et ensuite?
-Vous présenterez votre projet lors de la [Présentation finale](/cours/semaine14)!
+
+Vous présenterez votre étude lors de la [Présentation finale](/cours/semaine14)!
 :::

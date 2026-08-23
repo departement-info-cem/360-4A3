@@ -32,10 +32,8 @@ La proposition de projet vise à vérifier que :
 - Travail d’équipe
 - Document écrit structuré
 - Format au choix :
-  - [**Typst**](/methodes/typst) (recommandé)
-  - [**LaTeX**](/methodes/latex)
-  - **Word**
-- Des gabarits sont disponibles dans la section *Méthodes* pour vous aider à démarrer avec [Typst](/methodes/typst) ou [LaTeX](/methodes/latex).
+  - [**Typst**](/methodes/typst)
+- Des gabarits sont disponibles dans la section *Méthodes* pour vous aider à démarrer avec [Typst](/methodes/typst).
 - Quel que soit le format choisi, le document final doit être exporté en **PDF** pour la remise.
 - Vous devez respecter les [normes de présentation matérielle des travaux écrits du cégep](https://rmsh.cegepmontpetit.ca/normes-de-presentation-materielle-des-travaux-ecrits-du-cegep/).
   :::
