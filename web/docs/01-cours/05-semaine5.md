@@ -39,7 +39,7 @@ La proposition de projet vise à vérifier que :
 - Rédaction et collaboration dans **Typst Web**
 - Remise en format **PDF**
 
-👉 Téléchargez le [gabarit de projet 4A3](/gabarits/gabarit_projet.zip).
+👉 Téléchargez le [gabarit de projet 4A3](/ressources/gabarits/gabarit_projet.zip).
 
 📌 Référez-vous à la section [Écrire en Typst](/methodes/typst) pour savoir comment utiliser Typst Web, travailler en équipe, ajouter des références, des figures ou des équations et exporter votre PDF.
 :::
