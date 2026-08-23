@@ -173,4 +173,5 @@ Après la remise de la proposition :
 📌 Cette proposition constitue la **première version de votre article scientifique final**.
 
 👉 Finalisez maintenant votre [Présentation de projet](/cours/semaine6) pour la semaine prochaine!
+
 :::
