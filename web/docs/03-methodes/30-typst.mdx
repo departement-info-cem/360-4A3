@@ -4,71 +4,282 @@ title: 🧾 Écrire en Typst
 
 # 🧾 Écrire en Typst
 
-Typst est un langage de **mise en page** moderne et puissant.
+Typst est un outil de **rédaction et de mise en page scientifique**.
 
-Il permet de rédiger des documents scientifiques (rapports, mémoires, articles) avec une qualité professionnelle.
+Dans ce cours, vous l'utiliserez pour rédiger les documents associés à votre projet scientifique.
 
-Sa syntaxe est **simple** et **intuitive**, inspirée de Markdown et LaTeX.
+Typst fonctionne directement dans le navigateur : **aucune installation n'est nécessaire**.
+
+:::info-nt
+Votre équipe utilisera **un même projet Typst pendant toute la session**.
+
+Le document commencera comme une **proposition de projet**, puis évoluera progressivement pour devenir votre **article scientifique final**.
+:::
+
+## 🌐 Utiliser Typst Web
+
+Rendez-vous sur :
+
+👉 [https://typst.app](https://typst.app)
+
+Créez un compte ou connectez-vous.
+
+Une fois un projet créé (*Project* > *New Project*), l'interface présente principalement (les colonnes, de gauche à droite) :
+
+- les **fichiers du projet**
+- l'éditeur Typst
+- un **aperçu du PDF**
+
+Le PDF est généré automatiquement pendant que vous rédigez. Si vous voulez le télécharger, cliquez sur la flèche vers le bas, en haut à droite.
+
+## 👥 Travailler en équipe
+
+Tous les membres de votre équipe peuvent travailler dans **le même projet Typst**.
+
+Dans un projet ouvert :
+
+1. cliquez sur **Share** (en haut à droite)
+2. invitez les autres membres de votre équipe
+3. donnez-leur l'autorisation de modifier le projet
+
+Vous pouvez alors travailler ensemble dans les mêmes fichiers.
+
+:::warning-nt
+Ne créez pas une copie différente du document pour chaque membre de l'équipe.
+
+Votre équipe doit conserver **un seul projet Typst commun**.
+:::
+
+## 📁 Organisation du projet
+
+Le gabarit fourni dans le cours contient notamment :
+
+```text
+article.typ
+style-4a3.typ
+references.bib
+figures/
+```
+
+### `article.typ`
+
+C'est votre **document principal**.
+
+Vous y rédigerez progressivement votre proposition, puis votre article scientifique.
+
+### `style-4a3.typ`
+
+Ce fichier contrôle automatiquement la mise en page :
+
+- les marges
+- les deux colonnes
+- les polices
+- les titres
+- les figures
+- les tableaux
+- la bibliographie
+
+:::warning-nt
+Vous ne devez normalement **pas modifier `style-4a3.typ`**.
+:::
+
+### `references.bib`
+
+Ce fichier contient les références bibliographiques utilisées dans votre projet.
+
+Vous le compléterez progressivement pendant toute la session.
+
+### `figures/`
+
+Ce dossier contient les graphiques et les images utilisés dans votre document.
+
+## ✍️ Écrire dans Typst
+
+La syntaxe de Typst est volontairement simple.
+
+### Titres
+
+```typ
+= Introduction
+
+== Sous-section
+```
+
+### Gras et italique
+
+```typ
+*texte en gras*
+
+_texte en italique_
+```
+
+### Listes
+
+```typ
+- premier élément
+- deuxième élément
+- troisième élément
+```
+
+Vous n'avez pas besoin de connaître toute la syntaxe de Typst pour réaliser votre projet.
+
+Le gabarit contient déjà la structure et les principaux exemples dont vous aurez besoin.
+
+## 📊 Ajouter une figure
+
+Déposez votre graphique ou votre image dans le dossier :
+
+```text
+figures/
+```
+
+Lorsque possible, exportez les graphiques produits avec Python en **SVG** afin de conserver une excellente qualité dans le PDF.
+
+Par exemple :
+
+```text
+figures/resultats.svg
+```
+
+Dans `article.typ` :
+
+```typ
+#scientific-figure(
+  image("figures/resultats.svg", width: 100%),
+  caption: [Description claire de la figure.],
+) <fig-resultats>
+```
+
+Vous pouvez ensuite faire référence automatiquement à cette figure dans le texte :
+
+```typ
+Comme le montre la @fig-resultats, ...
+```
+
+Typst affichera automatiquement le numéro correspondant.
 
 :::tip-nt
-### 📝 Gabarit
-Vous pouvez [télécharger ce gabarit Typst](/ressources/gabarits/gabarit_rapport_typst.zip) pour démarrer rapidement votre premier document Typst.
+Chaque figure doit :
+
+- être mentionnée dans le texte
+- avoir une légende claire
+- être suffisamment lisible
+- être interprétée dans le document
 :::
 
-## ⚙️ Procédure simple et rapide
+## 📋 Ajouter un tableau
 
-:::info-nt
-### 1️⃣ Ouvrir / créer un projet
-- Lancez **Visual Studio Code**
-- `Fichier → Ouvrir le dossier`
-- Sélectionnez le dossier de votre projet
-- Ouvrez ou créez un fichier avec l’extension `.typ`
+Le gabarit permet également de créer des tableaux scientifiques.
+
+Par exemple :
+
+```typ
+#scientific-table(
+  (1.2fr, 1fr, 1fr),
+  (
+    [*Condition*], [*Mesure A*], [*Mesure B*],
+  ),
+  (
+    [A], [12,4], [8,1],
+    [B], [14,8], [9,3],
+  ),
+  align: (left, center, center),
+  caption: [Exemple de tableau présentant deux mesures pour deux conditions.],
+) <tab-resultats>
+```
+
+Vous pouvez ensuite y faire référence dans le texte :
+
+```typ
+Les résultats sont présentés dans le @tab-resultats.
+```
+
+Les tableaux sont automatiquement numérotés.
+
+## ➗ Écrire une équation
+
+Typst permet d'écrire directement les expressions mathématiques.
+
+Par exemple :
+
+```typ
+$ bar(x) = 1/n sum_(i=1)^n x_i $
+```
+
+Les équations demeurent ainsi nettes, peu importe la taille du document.
+
+:::warning-nt
+N'insérez pas vos équations sous forme de captures d'écran ou d'images.
+
+Écrivez-les directement dans Typst.
 :::
 
-:::info-nt
-### 2️⃣ Installer l’extension Typst
-- Ouvrez l’onglet **Extensions** à gauche : <img src="/360-4A3/img/extensions.png"/>
-- Recherchez : **Tinymist Typst**
-- Auteur : *myriad-dreamin*
-- Cliquez sur **Installer**
+## 📚 Ajouter des références
+
+Les références bibliographiques sont enregistrées dans :
+
+```text
+references.bib
+```
+
+Chaque référence possède une **clé unique**.
+
+Par exemple :
+
+```bib
+@article{hubble1929,
+  author  = {Hubble, Edwin},
+  title   = {A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae},
+  journal = {Proceedings of the National Academy of Sciences},
+  year    = {1929}
+}
+```
+
+La clé de cette référence est :
+
+```text
+hubble1929
+```
+
+Pour citer cette source dans votre document :
+
+```typ
+@hubble1929
+```
+
+Typst ajoute automatiquement la citation dans le texte et génère la liste des références à la fin du document.
+
+Vous pouvez ajouter **autant de références que nécessaire** dans `references.bib`.
+
+:::tip-nt
+Toutes les sources utilisées dans votre document doivent être :
+
+- ajoutées dans `references.bib`
+- citées dans le texte
+- suffisamment précises pour permettre de retrouver la source originale
 :::
 
-:::info-nt
-### 3️⃣ Configurer l’extension Typst
-Pour que le PDF soit (re)généré automatiquement lorsque vous tapez, vous devez configurer l’option `Tinymist Export PDF` :
-- `Fichier → Préférences → Paramètres`
-- Recherchez : `Tinymist Export PDF`
-- Sélectionnez : `onType` : <img src="/360-4A3/img/pdf3.png"/>
-:::
+## 📄 Exporter le PDF
 
-::::info-nt
-### 4️⃣ Écrire et prévisualiser le PDF
-- Ouvrez votre fichier `.typ`
-- En haut à droite, cliquez sur l’icône de la loupe avec un document : <img src="/360-4A3/img/pdf2.png"/>
-- Cela ouvre un panneau latéral avec l’aperçu du PDF.
-- ✨ L'aperçu se met à jour **automatiquement** lorsque vous modifiez le code Typst
-- ✨ Le vrai PDF se met aussi à jour automatiquement, **si vous avez configuré l’option `onType`**
-- **Mais attention :**
+Lorsque vous devez remettre une version de votre document :
 
-:::danger-nt
-### ⚠️ Sauvegarder le fichier `.typ`
-VS code ne sauvegarde pas automatiquement votre fichier `.typ`, même si le PDF est mis à jour.
-- Pensez à sauvegarder régulièrement avec `Ctrl + S`.
-- Si vous fermez VS Code sans sauvegarder, vous perdrez vos modifications.
-- Si vous faites un commit-push avant de sauvegarder, vous pousserez la dernière version sauvegardée.
+1. exportez le document en **PDF** (flèche vers le bas, en haut à droite)
+2. ouvrez le fichier obtenu
+3. vérifiez attentivement la mise en page
+4. vérifiez les figures, les tableaux et les références
+5. remettez le PDF demandé
+
+:::warning-nt
+Le projet Typst continue d'évoluer pendant la session.
+
+**N'effacez pas votre projet après une remise.**
 :::
-::::
 
 ## 📚 Ressources
 
 :::info-nt
-Vous trouverez ici la documentation officielle de Typst, très complète et bien faite :
-- [Documentation officielle de Typst](https://typst.app/docs/)
-- Vous pouvez effectuer une recherche par mot-clé en haut à gauche.
-:::
+Documentation officielle :
 
-:::tip-nt
-### 🎤 Présentations
-Il est même possible de créer des présentations avec Typst :
-- [Présentation en Typst](https://typst.app/docs/web-app/presentation-mode/)
+- [Documentation Typst](https://typst.app/docs/)
+- [Typst Web App](https://typst.app/)
 :::
