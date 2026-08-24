@@ -48,7 +48,7 @@ Chaque membre consignera brièvement son travail et ses prochaines étapes dans 
 
 ---
 
-### ⏳ Travail entre les cours (3 hrs)
+### ⏳ Travail entre les cours (3 heures)
 :::tip-nt
 En plus du travail en classe, vous devrez aussi consacrer du temps (environ 3 heures) entre les cours pour :
 - avancer sur les tâches assignées
