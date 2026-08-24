@@ -78,7 +78,7 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "13 - 📘 Rapport (25%)",
+      label: "13 - 📄 Article (25%)",
       id: "cours/semaine13",
       customProps: {
         calendrier: {
