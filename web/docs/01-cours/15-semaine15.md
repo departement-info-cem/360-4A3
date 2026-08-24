@@ -32,9 +32,9 @@ Le sondage servira à améliorer le cours pour la prochaine cohorte.
 
 - Les questions sont publiées d’avance afin de vous permettre de réfléchir à votre démarche et de préparer des exemples concrets.
 
-- Pendant ce cours, un **gabarit Typst** vous sera fourni avec les questions à compléter. Vous pourrez y rédiger vos réponses ou y coller des réponses préparées, puis les relire, les ajuster et les finaliser en classe.
+- Remettez un **PDF** individuel contenant vos réponses aux quatre questions.
 
-- La remise se fera en format **PDF**, généré à partir du gabarit Typst.
+- La mise en page n’est pas évaluée. Le document doit simplement être clair, lisible et indiquer votre nom et votre équipe.
 
 - Chaque réponse doit contenir environ **100 à 250 mots**.
 
