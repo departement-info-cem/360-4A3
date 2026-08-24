@@ -25,7 +25,7 @@ La proposition de projet vise à vérifier que :
 - les données ou expériences sont **réalistes et accessibles**
 - la démarche est **cohérente avec le temps et le niveau du cours**
 
-👉 Il ne s’agit **pas** d’un rapport final, mais d’un **engagement scientifique initial**.
+👉 Il ne s’agit **pas encore** de l’article scientifique final, mais d’un **engagement scientifique initial**.
 :::
 
 ## 📌 Modalités
@@ -56,7 +56,7 @@ Après la remise de la proposition :
 - vous ajouterez progressivement vos références et vos figures
 - votre proposition évoluera jusqu’à devenir votre **article scientifique final**
 
-👉 Ne créez pas un nouveau document Typst pour le rapport final.
+👉 Ne créez pas un nouveau document Typst pour l’article scientifique final.
 :::
 
 :::info-nt
