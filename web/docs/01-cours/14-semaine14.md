@@ -18,7 +18,7 @@ La présentation vise à vérifier que :
 - l’**analyse** est réfléchie et critique
 - l’équipe est capable de **communiquer scientifiquement** son travail
 
-👉 Le public doit comprendre votre projet **sans avoir lu le rapport**.
+👉 Le public doit comprendre votre projet **sans avoir lu votre article scientifique**.
 :::
 
 ## 📌 Modalités
@@ -45,7 +45,7 @@ Votre présentation doit couvrir, de manière synthétique :
 5. l’**analyse et l’interprétation**
 6. les **limites** et pistes d’amélioration
 
-👉 Il ne s’agit **pas** de reprendre tout le rapport, mais d’en extraire l’essentiel.
+👉 Il ne s’agit **pas** de reprendre tout l’article, mais d’en extraire l’essentiel.
 :::
 
 ## 🧩 Conseils utiles
