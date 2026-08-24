@@ -3,121 +3,255 @@ title: 🛠️ Développement et analyse (15%)
 description: Semaines 7 à 12
 ---
 
-Les semaines 7 à 12 constituent le **cœur du projet scientifique**.
+Les semaines 7 à 12 constituent la **phase principale de développement du projet**.
 
-C’est durant cette période que vous allez :
-- mettre en œuvre votre **démarche scientifique**
-- réaliser vos **expériences numériques**
-- analyser vos **résultats**
-- ajuster votre projet de façon raisonnée
+Votre objectif est maintenant de mettre en œuvre la démarche proposée, de produire des résultats, de les analyser et d’ajuster votre approche lorsque nécessaire.
 
-👉 L’objectif n’est pas seulement de produire des résultats, mais de **comprendre ce que vous observez**.
+👉 Le projet continuera probablement à évoluer : votre démarche doit rester **rigoureuse, documentée et guidée par votre question de recherche**.
 
 :::info-nt
-## 🎯 Objectifs généraux
+## 🎯 Objectifs
+
 Durant cette période, vous devez :
-- répondre progressivement à votre **question de recherche**
-- mettre en place une **méthodologie fonctionnelle**
-- produire des **résultats mesurables**
-- analyser ces résultats de manière critique
-- documenter votre travail en continu
 
-👉 Ces éléments serviront directement à la rédaction du [Rapport de recherche](/cours/semaine13) final.
+- développer votre expérience numérique, simulation ou analyse
+- préparer, générer ou traiter les données nécessaires
+- tester et ajuster votre méthodologie
+- produire des résultats pertinents
+- analyser et valider ces résultats
+- résoudre les problèmes rencontrés
+- contribuer activement au travail de l’équipe
+- documenter votre travail individuel
+
+👉 Cette période est évaluée **individuellement**, même si le projet est réalisé en équipe.
 :::
 
-## 🧭 Ce sur quoi vous devez travailler
+## 🧭 Développer le projet
 
 :::tip-nt
-### ⚙️ Mise en œuvre
-Vous devez :
-- implémenter les algorithmes, modèles ou simulations nécessaires
-- traiter ou générer les données prévues
-- tester différentes configurations ou paramètres, si pertinent
+### 💻 Mettre en œuvre la méthodologie
 
-👉 Travaillez de façon **itérative** : testez, observez, ajustez.
+À partir de votre proposition de projet, développez progressivement votre démarche.
+
+Selon votre projet, cela peut notamment inclure :
+
+- la préparation ou le nettoyage des données
+- la génération de données
+- le développement d’une simulation
+- l’implantation d’algorithmes ou de modèles
+- l’exécution d’expériences numériques
+- l’analyse statistique
+- la production de visualisations
+
+👉 Travaillez de façon **progressive** : développez, testez, observez, puis ajustez.
 :::
 
 :::info-nt
-### 📊 Production de résultats
-Vous devriez progressivement obtenir :
-- des mesures
-- des comparaisons
-- des graphiques ou visualisations
-- des observations quantitatives ou qualitatives
+### 🧪 Tester et valider
 
-👉 Des résultats inattendus ou négatifs sont **parfaitement valides** s’ils sont bien analysés.
-:::
+Ne vous contentez pas d’obtenir un résultat.
 
-:::tip-nt
-### 🔍 Analyse et interprétation
-Ne vous contentez pas de produire des chiffres ou des graphiques :
-- expliquez ce que vous observez
-- reliez les résultats à votre question de recherche
-- comparez différentes approches ou paramètres, si applicable
+Vous devez chercher à déterminer :
 
-👉 L’analyse est souvent **plus importante** que la performance brute.
+- si votre méthode fonctionne comme prévu
+- si vos résultats sont cohérents
+- si certaines valeurs sont inattendues
+- si vos paramètres influencent les résultats
+- si vos résultats permettent réellement de répondre à votre question
+
+👉 Un résultat intéressant doit être **compris et interprété**, pas seulement produit.
 :::
 
 :::warning-nt
-### ⚠️ Ajustements
-En cours de route, il est normal que :
-- certaines idées initiales ne fonctionnent pas
-- des données soient moins exploitables que prévu
-- la méthodologie doive être adaptée
+### 🔄 Ajuster la démarche
 
-👉 Tout ajustement important doit être :
-- réfléchi
-- justifié
-- documenté
+Il est normal de devoir modifier certains choix pendant le développement.
 
-Un projet qui évolue de manière cohérente est **un bon projet scientifique**.
+Vous pourriez devoir :
+
+- changer une méthode
+- modifier certains paramètres
+- simplifier une expérience
+- nettoyer les données différemment
+- ajouter un test
+- abandonner une piste qui ne fonctionne pas
+
+👉 Ces ajustements font partie de la démarche scientifique. L’important est de pouvoir expliquer **pourquoi** vous les avez faits.
 :::
 
-## 🗂️ Documentation et organisation
+## 📓 Journal de bord individuel
 
 :::tip-nt
-### 📝 Suivi du projet
-Tout au long des semaines :
-- documentez vos choix méthodologiques
-- notez vos essais (réussis ou non)
-- conservez vos résultats intermédiaires
-- tenez votre **repo GitHub** à jour
+Continuez à tenir votre **journal de bord individuel** dans le repo GitHub de votre équipe :
 
-👉 Cette documentation vous fera gagner énormément de temps pour le [Rapport de recherche](/cours/semaine13).
+```text
+journal/prenom-nom.md
+```
+
+Pendant les semaines 7 à 12, ajoutez régulièrement de courtes entrées permettant de suivre votre travail.
+
+Utilisez toujours le même format :
+
+```md
+## 3 novembre
+
+**Travail réalisé**
+- Test de trois valeurs du paramètre
+- Modification de la fonction de simulation
+- Production d’un nouveau graphique
+
+**Résultat / problème**
+Les résultats deviennent instables lorsque le paramètre dépasse 0,8.
+
+**Prochaine étape**
+Vérifier si l’instabilité vient du modèle ou de l’algorithme.
+```
+
+👉 Le journal doit rester **bref**. Quelques lignes suffisent pour laisser une trace claire de votre travail.
 :::
 
 :::info-nt
-### 🧪 Lien avec le rapport final
-Pendant cette période, vous devriez déjà commencer à :
-- créer et structurer le document du [Rapport de recherche](/cours/semaine13)
-- identifier les sections à remplir
-- rédiger certaines parties au fur et à mesure (méthodes, résultats préliminaires)
+### 🔎 À quoi sert le journal?
 
-📌 Consultez la page [Rapport de recherche](/cours/semaine13).
+Le journal constitue une **trace de votre travail individuel**.
+
+Il sera utilisé avec les autres traces du projet — commits GitHub, fichiers, code, analyses, graphiques, résultats, etc. — pour évaluer votre contribution et votre progression.
+
+Vous n’êtes pas évalué sur la qualité du français dans le journal. Il doit simplement être **régulier, clair et fidèle au travail réalisé**.
+:::
+
+## 📊 Produire et analyser les résultats
+
+:::tip-nt
+Au fur et à mesure du développement :
+
+- conservez les résultats pertinents
+- produisez des graphiques lisibles
+- comparez les résultats lorsque pertinent
+- identifiez les tendances importantes
+- notez les résultats inattendus
+- vérifiez si vos observations répondent à votre question de recherche
+
+👉 Ne gardez pas uniquement les résultats qui confirment ce que vous espériez observer.
+:::
+
+## 📝 Faire évoluer votre article scientifique
+
+:::info-nt
+Continuez à travailler dans **le même projet Typst** que celui utilisé pour votre proposition.
+
+Ne créez pas un nouveau document.
+
+Pendant le développement :
+
+- révisez votre **Introduction** selon la rétroaction reçue
+- transformez progressivement la **Méthodologie prévue** en méthodologie réellement utilisée
+- intégrez les informations pertinentes sur vos données ou votre expérience à la **Méthodologie**
+- ajoutez progressivement vos figures et tableaux
+- ajoutez vos nouvelles sources dans `references.bib`
+- commencez à rédiger vos **Résultats** lorsque ceux-ci deviennent suffisamment stables
+
+👉 Votre proposition évolue progressivement pour devenir votre **article scientifique final**.
 :::
 
 ## 🤝 Rencontres hebdomadaires
 
 :::info-nt
 Chaque semaine, votre rencontre d’équipe avec moi servira à :
+
+- présenter votre progression
 - discuter des résultats obtenus
-- analyser les difficultés rencontrées
-- ajuster la démarche si nécessaire
+- identifier les difficultés
+- valider vos choix méthodologiques
 - planifier les prochaines étapes
 
-👉 Venez préparés avec :
-- ce que vous avez testé
-- ce que vous avez observé
-- ce qui fonctionne… et ce qui ne fonctionne pas
+👉 Venez préparés à montrer **du travail concret** : code, données, graphiques, essais ou résultats.
 :::
 
-## 🎯 Se projeter vers la suite
+## 🧮 Grille d’évaluation individuelle (15%)
 
-:::tip-nt
-À la semaine 10, vous devriez avoir :
-- une démarche scientifique complète
-- un ensemble de résultats exploitables
-- une compréhension claire de vos observations
-- une base solide pour terminer la rédaction du [Rapport de recherche](/cours/semaine13).
+:::info-nt
+
+Cette évaluation est **individuelle**, même si le développement est réalisé dans le cadre d’un projet d’équipe.
+
+<table style={{ width: '100%', tableLayout: 'auto' }}>
+    <tr>
+        <th>Critère évalué</th>
+        <th>Description</th>
+        {['Absent', 'Insatisfaisant', 'Acceptable', 'Très satisfaisant', 'Excellent'].map((titre) => (
+            <th
+                style={{
+                    width: '1%',
+                    minWidth: '32px',
+                    height: '150px',
+                    verticalAlign: 'bottom',
+                    textAlign: 'center',
+                    padding: '4px',
+                }}
+            >
+                <div
+                    style={{
+                        writingMode: 'vertical-rl',
+                        transform: 'rotate(180deg)',
+                        whiteSpace: 'nowrap',
+                        margin: '0 auto',
+                    }}
+                >
+                    {titre}
+                </div>
+            </th>
+        ))}
+    </tr>
+
+    <tr>
+        <td><strong>Contribution au développement</strong></td>
+        <td>
+            Contribue concrètement et régulièrement au développement scientifique et technique du projet.
+        </td>
+        <td>0</td><td>1</td><td>2,5</td><td>4</td><td>5</td>
+    </tr>
+    
+    <tr>
+        <td><strong>Démarche et rigueur scientifique</strong></td>
+        <td>
+            Réalise des essais pertinents, résout les problèmes rencontrés et analyse ses résultats avec rigueur.
+        </td>
+        <td>0</td><td>1</td><td>2</td><td>3</td><td>4</td>
+    </tr>
+    
+    <tr>
+        <td><strong>Autonomie et progression</strong></td>
+        <td>
+            Progresse de façon autonome et ajuste efficacement son travail au fil du projet.
+        </td>
+        <td>0</td><td>1</td><td>2</td><td>3</td><td>4</td>
+    </tr>
+    
+    <tr>
+        <td><strong>Journal de bord</strong></td>
+        <td>
+            Documente régulièrement et clairement son travail, ses résultats ou problèmes et ses prochaines étapes.
+        </td>
+        <td>0</td><td>0,5</td><td>1</td><td>1,5</td><td>2</td>
+    </tr>
+
+    <tr>
+        <td><strong>Total</strong></td>
+        <td colSpan="6" style={{ textAlign: 'right' }}><strong>/ 15</strong></td>
+    </tr>
+</table>
+
 :::
 
+## 📌 À la fin de cette période
+
+À la fin de la semaine 12, vous devriez avoir :
+
+- une méthodologie suffisamment stable
+- les principaux développements terminés
+- des résultats exploitables
+- des analyses permettant de répondre à votre question de recherche
+- un journal de bord à jour
+- un article scientifique déjà bien amorcé
+
+👉 La semaine suivante sera consacrée à la finalisation et la remise de votre [Article scientifique](/cours/semaine13).
