@@ -80,6 +80,24 @@ Votre présentation doit couvrir :
 👉 Une présentation trop longue ou désorganisée nuit à la compréhension.
 :::
 
+## 💬 Participation aux présentations
+
+:::info-nt
+Chaque personne étudiante doit poser **au moins une question pertinente à une autre équipe** pendant les présentations.
+
+👉 La question doit démontrer une écoute réelle et porter sur le projet présenté : question de recherche, données, démarche, faisabilité, choix méthodologiques, etc.
+:::
+
+## 🗣️ Rétroaction immédiate
+
+:::tip-nt
+Une courte rétroaction orale sera donnée **immédiatement après chaque présentation**.
+
+Afin qu’elle soit rapide et utile, elle portera principalement sur les **éléments à améliorer**.
+
+👉 Cela ne signifie pas que les aspects positifs de la présentation ne sont pas reconnus : la rétroaction immédiate vise simplement à identifier en priorité ce qui pourrait être amélioré avant la phase de développement.
+:::
+
 ## 🧮 Grille d’évaluation (10%)
 
 :::info-nt
@@ -113,62 +131,61 @@ Votre présentation doit couvrir :
             </th>
         ))}
     </tr>
+
     <tr>
-        <td><strong>Temps respecté</strong></td>
+        <td><strong>Contenu scientifique</strong></td>
         <td>
-            - Proportionnel aux autres membres de l’équipe, soit environ 3 à 4 minutes
+            Présente clairement la question de recherche, les données ou l’expérience et la démarche envisagée.
         </td>
-        <td>0</td><td>0,5</td><td>1</td><td>1,5</td><td>2</td>
+        <td>0</td><td>0,5</td><td>1,5</td><td>2,5</td><td>3</td>
     </tr>
+
     <tr>
         <td><strong>Communication orale</strong></td>
         <td>
-            - Diction claire et fluide
-            - Intonation, volume et débit appropriés
-            - Présentation dynamique et engageante
+            Présente de façon claire et structurée, avec des supports visuels efficaces et dans le temps alloué.
         </td>
-        <td>0</td><td>0,5</td><td>1</td><td>1,5</td><td>2</td>
+        <td>0</td><td>0,5</td><td>1,5</td><td>2,5</td><td>3</td>
     </tr>
+
     <tr>
-        <td><strong>Cohérence de la partie présentée</strong></td>
+        <td><strong>Maîtrise du projet et réponses</strong></td>
         <td>
-            - Bien structurée, compréhensible et liée au projet global
-            - Idées enchaînées logiquement
-            - Informations expliquées clairement
+            Démontre une bonne compréhension du projet et justifie adéquatement les choix proposés.
         </td>
-        <td>0</td><td>0,5</td><td>1</td><td>1,5</td><td>2</td>
+        <td>0</td><td>0,5</td><td>1,5</td><td>2,5</td><td>3</td>
     </tr>
+
     <tr>
-        <td><strong>Support visuel</strong></td>
+        <td><strong>Participation aux présentations</strong></td>
         <td>
-            - Diapositives simples, lisibles et organisées
-            - Figures et images pertinentes, claires et appuyant efficacement le propos
+            Pose au moins une question pertinente à une autre équipe.
         </td>
-        <td>0</td><td>0,5</td><td>1</td><td>1,5</td><td>2</td>
+        <td>0</td><td></td><td></td><td></td><td>1</td>
     </tr>
-    <tr>
-        <td><strong>Maîtrise du contenu</strong></td>
-        <td>
-            - Bonne compréhension
-            - Peut répondre clairement aux questions
-        </td>
-        <td>0</td><td>0,5</td><td>1</td><td>1,5</td><td>2</td>
-    </tr>
+
     <tr>
         <td><strong>Total</strong></td>
         <td colSpan="6" style={{ textAlign: 'right' }}><strong>/ 10</strong></td>
     </tr>
 </table>
 
-### 🧠 Participation individuelle
-Même si l’évaluation est **en équipe**, une participation manifestement inégale pourra être prise en compte.
+### 🧠 Évaluation individuelle
+
+La présentation est réalisée **en équipe**, mais l’évaluation est **individuelle**.
 
 👉 Chaque membre doit :
+
 - comprendre l’ensemble du projet
-- répondre aux questions
+- être capable d’expliquer sa contribution
+- participer activement à la présentation
+- répondre aux questions liées au projet et à son travail
+
+La note peut donc varier entre les membres d’une même équipe.
 :::
 
 :::tip-nt
 ## 👉 Et après?
+
 📌 Vous entrerez ensuite dans la phase de [Développement et analyse du projet](/cours/semaine7).
 :::
