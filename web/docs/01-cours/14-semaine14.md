@@ -179,7 +179,7 @@ Une bonne présentation finale :
 👉 C’est la dernière occasion de **faire ressortir l’intelligence de votre démarche**.
 :::
 
-:::tip-nt
+:::info-nt
 ## 👉 Et après?
 La dernière étape du cours est l’[Auto-évaluation](/cours/semaine15), où vous prendrez du recul sur votre démarche et votre contribution personnelle.
 :::
