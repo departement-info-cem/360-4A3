@@ -38,7 +38,7 @@ Le sondage servira à améliorer le cours pour la prochaine cohorte.
 
 - Chaque réponse doit contenir environ **100 à 250 mots**.
 
-- Les réponses doivent faire référence à des éléments concrets du projet : tâches réalisées, décisions prises, difficultés rencontrées, apprentissages, ajustements ou limites observées.
+- Les réponses doivent s’appuyer sur des éléments concrets du projet et, lorsque pertinent, sur votre **journal de bord** : tâches réalisées, décisions prises, difficultés rencontrées, apprentissages, ajustements ou limites observées.
 
 :::
 
@@ -116,42 +116,39 @@ Qu’est-ce que ce projet vous a permis de mieux comprendre sur votre façon de 
             </th>
         ))}
     </tr>
+
     <tr>
-        <td><strong>1. Contribution personnelle et collaboration</strong></td>
+        <td><strong>Contribution personnelle et collaboration</strong></td>
         <td>
-            - Réponse claire, précise et honnête<br />
-            - Exemples concrets de tâches réalisées, de recherches, de code, d’analyses, de tests, de corrections ou de décisions<br />
-            - Explication de son rôle dans l’équipe et dans l’avancement du projet
+            Analyse sa contribution au projet et au travail d’équipe à l’aide d’exemples concrets.
         </td>
         <td>0</td><td>0,5</td><td>1,5</td><td>2</td><td>2,5</td>
     </tr>
+
     <tr>
-        <td><strong>2. Apprentissages réalisés</strong></td>
+        <td><strong>Apprentissages réalisés</strong></td>
         <td>
-            - Apprentissages clairement identifiés<br />
-            - Liens explicites avec le projet<br />
-            - Réflexion sur ce qui a été compris ou développé pendant la session
+            Identifie et explique les principaux apprentissages réalisés pendant le projet.
         </td>
         <td>0</td><td>0,5</td><td>1,5</td><td>2</td><td>2,5</td>
     </tr>
+
     <tr>
-        <td><strong>3. Recul critique</strong></td>
+        <td><strong>Recul critique</strong></td>
         <td>
-            - Analyse des forces et des limites de la démarche ou du projet<br />
-            - Identification des difficultés rencontrées<br />
-            - Pistes d’amélioration ou éléments à refaire autrement
+            Analyse avec recul les forces, les difficultés et les limites de la démarche ou du projet.
         </td>
         <td>0</td><td>0,5</td><td>1,5</td><td>2</td><td>2,5</td>
     </tr>
+
     <tr>
-        <td><strong>4. Bilan personnel</strong></td>
+        <td><strong>Bilan personnel</strong></td>
         <td>
-            - Réflexion personnelle claire<br />
-            - Liens avec sa façon de travailler, d’apprendre ou de résoudre un problème<br />
-            - Regard honnête sur son évolution pendant le projet
+            Porte un regard réfléchi sur sa façon de travailler, d’apprendre et de résoudre des problèmes.
         </td>
         <td>0</td><td>0,5</td><td>1,5</td><td>2</td><td>2,5</td>
     </tr>
+
     <tr>
         <td><strong>Total</strong></td>
         <td colSpan="6" style={{ textAlign: 'right' }}><strong>/ 10</strong></td>
