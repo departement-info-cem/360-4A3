@@ -210,7 +210,7 @@ Cela comprend notamment :
 
 Les références doivent permettre au lecteur de **retrouver la source originale**.
 
-Le gabarit Typst fourni gère automatiquement la présentation de la bibliographie.
+Typst gère automatiquement la présentation de la bibliographie à partir du fichier `references.bib`.
 :::
 
 ## ✍️ Style scientifique
