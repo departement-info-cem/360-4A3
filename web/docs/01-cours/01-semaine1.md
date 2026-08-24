@@ -39,11 +39,11 @@ Vous passerez le reste du temps de cours à travailler en équipe sur votre proj
 :::
 
 :::info-nt
-👉 À la fin de chaque cours, avant de quitter, vous devez déterminer clairement les tâches de chaque membre de l’équipe d'ici à la prochaine rencontre.<br/>
-Vous devez noter ces tâches dans un fichier texte de suivi de projet facile à trouver dans votre repo GitHub, dans l'un de ces langages :
-- [Markdown (.md)](https://info.cegepmontpetit.ca/420-SN1/recettes/creer-markdown)
-- Typst (.typ)
-- LaTeX (.tex)
+👉 À la fin de chaque cours, avant de quitter, vous devez déterminer clairement les tâches de chaque membre de l’équipe d’ici à la prochaine rencontre.
+
+Chaque membre consignera brièvement son travail et ses prochaines étapes dans son **journal de bord individuel** dans le repo GitHub de l’équipe.
+
+📌 Les consignes et le format du journal sont présentés dans la section [Exploration et cadrage du projet](/cours/semaine2#-journal-de-bord-individuel).
 :::
 
 ---
@@ -106,33 +106,23 @@ G --> H[🔁 Pistes d’amélioration ou nouvelles questions]
 :::info-nt
 ## 🧮 Évaluations
 
-Votre note finale au cours sera composée de plusieurs évaluations, dont voici la répartition :
+Votre note finale au cours sera composée des évaluations suivantes :
+
 | Évaluation | Individuelle | En équipe |
-|---------------------------------------|:-----------:|-----------------------|
-| [Proposition de projet](/cours/semaine5) |  | 10% |
-| [Présentation du projet](/cours/semaine6) | 10% |  |
-| Réalisation du projet | 25% |  |
-| [Rapport de recherche](/cours/semaine13) |  | 25% |
-| [Présentation finale](/cours/semaine14) | 20% |  |
-| [Auto-évaluation](/cours/semaine15) | 10% |  |
+|---------------------------------------|:-----------:|:---------:|
+| [Exploration et cadrage du projet](/cours/semaine2) | 10% | |
+| [Proposition de projet](/cours/semaine5) | | 10% |
+| [Présentation du projet proposé](/cours/semaine6) | 10% | |
+| [Développement et analyse](/cours/semaine7) | 15% | |
+| [Article scientifique](/cours/semaine13) | | 25% |
+| [Présentation finale](/cours/semaine14) | 20% | |
+| [Auto-évaluation](/cours/semaine15) | 10% | |
+| **Total** | **65%** | **35%** |
 
-Les grilles de ces évaluations sont disponibles sur la page de chaque évaluation, sauf pour la partie **Réalisation du projet (25%)**, qui est détaillée ci-dessous.
-
-### ⚙️ Réalisation du projet (25%)
-
-- La partie **Réalisation du projet (25%)** de votre note finale portera sur votre travail soutenu tout au long des semaines.
-- Elle sera évaluée **individuellement**, en fonction de votre contribution personnelle au projet de votre équipe, incluant votre participation lors des rencontres hebdomadaires.
-- En voici les critères d’évaluation :
-
-| Critère évalué | Description | Points |
-|----------------|-------------|:------:|
-| **Compréhension scientifique du projet** | Compréhension de la question de recherche, de la démarche et des enjeux scientifiques du projet | **5**  |
-| **Contribution au développement** | Participation active au développement du projet (implémentation, essais, exploration, ajustements) | **5**  |
-| **Analyse et réflexion** | Capacité à analyser les résultats obtenus, à les interpréter et à discuter de leur signification | **5**  |
-| **Rigueur et suivi du travail** | Qualité du suivi du travail (documentation, clarté des essais, organisation du repo GitHub) | **5**  |
-| **Participation aux rencontres** | Préparation, implication et capacité à discuter de l’avancement lors des rencontres hebdomadaires | **5**  |
-| **Total** |  | **25** |
+Les grilles d’évaluation et les consignes détaillées sont disponibles sur la page de chaque évaluation.
 :::
+
+---
 
 ::::tip-nt
 ## 👥 Formation des équipes
