@@ -228,21 +228,116 @@ Un article scientifique doit être **clair, précis et concis**.
 👉 Votre objectif n'est pas de montrer **tout ce que vous avez fait**, mais de présenter **ce qui est nécessaire pour comprendre et évaluer votre étude**.
 :::
 
-## 🧮 Grille d'évaluation (25%)
+## 🧮 Grille d’évaluation (25%)
 
 :::info-nt
 
-| Section évaluée | Description | Points |
-|---|---|:---:|
-| **Introduction et question de recherche** | Contexte scientifique, problématique, pertinence et formulation claire de la question de recherche | **4** |
-| **Méthodologie** | Démarche scientifique claire, cohérente, justifiée et suffisamment expliquée | **6** |
-| **Résultats** | Qualité, sélection et présentation des résultats; pertinence des figures, tableaux et comparaisons | **4** |
-| **Discussion** | Interprétation critique des résultats, liens avec la question de recherche, limites et réflexion scientifique | **5** |
-| **Conclusion** | Réponse claire et cohérente à la question de recherche | **1** |
-| **Références** | Sources pertinentes, correctement citées et traçables | **1** |
-| **Communication scientifique** | Organisation, concision, qualité des figures et tableaux, légendes et lisibilité générale | **2** |
-| **Qualité du français écrit** | Clarté de l'écriture et qualité du français | **2** |
-| **Total** | | **25** |
+<table style={{ width: '100%', tableLayout: 'auto' }}>
+    <tr>
+        <th>Critère évalué</th>
+        <th>Description</th>
+        {['Absent', 'Insatisfaisant', 'Acceptable', 'Très satisfaisant', 'Excellent'].map((titre) => (
+            <th
+                style={{
+                    width: '1%',
+                    minWidth: '32px',
+                    height: '150px',
+                    verticalAlign: 'bottom',
+                    textAlign: 'center',
+                    padding: '4px',
+                }}
+            >
+                <div
+                    style={{
+                        writingMode: 'vertical-rl',
+                        transform: 'rotate(180deg)',
+                        whiteSpace: 'nowrap',
+                        margin: '0 auto',
+                    }}
+                >
+                    {titre}
+                </div>
+            </th>
+        ))}
+    </tr>
+
+    <tr>
+        <td><strong>Résumé — Abstract</strong></td>
+        <td>
+            Synthétise la question, la méthode, les principaux résultats et la conclusion.
+        </td>
+        <td>0</td><td>0,5</td><td>1</td><td>1,5</td><td>2</td>
+    </tr>
+
+    <tr>
+        <td><strong>Introduction et question de recherche</strong></td>
+        <td>
+            Présente le contexte scientifique et mène clairement à une question de recherche pertinente.
+        </td>
+        <td>0</td><td>1</td><td>2</td><td>3</td><td>4</td>
+    </tr>
+
+    <tr>
+        <td><strong>Méthodologie</strong></td>
+        <td>
+            Décrit clairement et rigoureusement la démarche réellement utilisée.
+        </td>
+        <td>0</td><td>1</td><td>2</td><td>3</td><td>4</td>
+    </tr>
+
+    <tr>
+        <td><strong>Résultats</strong></td>
+        <td>
+            Présente clairement les résultats pertinents à l’aide de données et de visualisations appropriées.
+        </td>
+        <td>0</td><td>1</td><td>2</td><td>3</td><td>4</td>
+    </tr>
+
+    <tr>
+        <td><strong>Discussion</strong></td>
+        <td>
+            Interprète les résultats avec rigueur et considère les limites de l’étude.
+        </td>
+        <td>0</td><td>1</td><td>2</td><td>3</td><td>4</td>
+    </tr>
+
+    <tr>
+        <td><strong>Conclusion</strong></td>
+        <td>
+            Répond clairement à la question de recherche et synthétise les principaux constats.
+        </td>
+        <td>0</td><td>0,25</td><td>0,5</td><td>0,75</td><td>1</td>
+    </tr>
+
+    <tr>
+        <td><strong>Références</strong></td>
+        <td>
+            Utilise des sources pertinentes, correctement citées et référencées.
+        </td>
+        <td>0</td><td>0,25</td><td>0,5</td><td>0,75</td><td>1</td>
+    </tr>
+
+    <tr>
+        <td><strong>Communication scientifique</strong></td>
+        <td>
+            Présente l’information clairement et respecte les conventions d’un article scientifique.
+        </td>
+        <td>0</td><td>0,5</td><td>1,5</td><td>2,5</td><td>3</td>
+    </tr>
+
+    <tr>
+        <td><strong>Qualité du français écrit</strong></td>
+        <td>
+            Communique les idées dans un français clair et de qualité.
+        </td>
+        <td>0</td><td>0,5</td><td>1</td><td>1,5</td><td>2</td>
+    </tr>
+
+    <tr>
+        <td><strong>Total</strong></td>
+        <td colSpan="6" style={{ textAlign: 'right' }}><strong>/ 25</strong></td>
+    </tr>
+</table>
 
 :::
 
@@ -261,7 +356,7 @@ Un article scientifique doit être **clair, précis et concis**.
 **Pourquoi? → Comment? → Qu'avez-vous trouvé? → Qu'est-ce que cela signifie?**
 :::
 
-:::tip-nt
+:::info-nt
 ## 👉 Et ensuite?
 
 Vous présenterez votre étude lors de la [Présentation finale](/cours/semaine14)!
