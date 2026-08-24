@@ -148,15 +148,88 @@ Les références doivent être ajoutées dans `references.bib` et citées dans l
 
 :::info-nt
 
-| Section évaluée | Description | Points |
-|---|---|:---:|
-| **Introduction et question de recherche** | Clarté du contexte, compréhension du phénomène ou problème étudié, pertinence scientifique et formulation de la question de recherche | **3** |
-| **Données ou expérience envisagée** | Description adéquate des données ou de l’expérience numérique, provenance claire ou principe de génération explicité | **2** |
-| **Méthodologie prévue** | Cohérence de la démarche proposée, logique entre question, données et analyses envisagées | **2** |
-| **Faisabilité et limites** | Réalisme du projet, identification des contraintes, reconnaissance des limites et hypothèses | **1** |
-| **Références** | Qualité et pertinence des références | **1** |
-| **Qualité du français écrit** | Clarté de l’écriture et qualité du français | **1** |
-| **Total** | | **10** |
+<table style={{ width: '100%', tableLayout: 'auto' }}>
+    <tr>
+        <th>Critère évalué</th>
+        <th>Description</th>
+        {['Absent', 'Insatisfaisant', 'Acceptable', 'Très satisfaisant', 'Excellent'].map((titre) => (
+            <th
+                style={{
+                    width: '1%',
+                    minWidth: '32px',
+                    height: '150px',
+                    verticalAlign: 'bottom',
+                    textAlign: 'center',
+                    padding: '4px',
+                }}
+            >
+                <div
+                    style={{
+                        writingMode: 'vertical-rl',
+                        transform: 'rotate(180deg)',
+                        whiteSpace: 'nowrap',
+                        margin: '0 auto',
+                    }}
+                >
+                    {titre}
+                </div>
+            </th>
+        ))}
+    </tr>
+
+    <tr>
+        <td><strong>Introduction et question de recherche</strong></td>
+        <td>
+            Présente clairement le contexte, la pertinence scientifique et la question de recherche.
+        </td>
+        <td>0</td><td>0,5</td><td>1,5</td><td>2,5</td><td>3</td>
+    </tr>
+
+    <tr>
+        <td><strong>Données ou expérience envisagée</strong></td>
+        <td>
+            Décrit clairement les données ou l’expérience envisagée et leur provenance ou génération.
+        </td>
+        <td>0</td><td>0,5</td><td>1</td><td>1,5</td><td>2</td>
+    </tr>
+
+    <tr>
+        <td><strong>Méthodologie prévue</strong></td>
+        <td>
+            Propose une démarche cohérente avec la question de recherche et les données.
+        </td>
+        <td>0</td><td>0,5</td><td>1</td><td>1,5</td><td>2</td>
+    </tr>
+
+    <tr>
+        <td><strong>Faisabilité et limites</strong></td>
+        <td>
+            Évalue avec réalisme les contraintes, limites et hypothèses du projet.
+        </td>
+        <td>0</td><td>0,25</td><td>0,5</td><td>0,75</td><td>1</td>
+    </tr>
+
+    <tr>
+        <td><strong>Références</strong></td>
+        <td>
+            Utilise des références pertinentes et les cite correctement.
+        </td>
+        <td>0</td><td>0,25</td><td>0,5</td><td>0,75</td><td>1</td>
+    </tr>
+
+    <tr>
+        <td><strong>Qualité du français écrit</strong></td>
+        <td>
+            Communique les idées clairement dans un français de qualité.
+        </td>
+        <td>0</td><td>0,25</td><td>0,5</td><td>0,75</td><td>1</td>
+    </tr>
+
+    <tr>
+        <td><strong>Total</strong></td>
+        <td colSpan="6" style={{ textAlign: 'right' }}><strong>/ 10</strong></td>
+    </tr>
+</table>
 
 :::
 
