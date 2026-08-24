@@ -36,13 +36,15 @@ Votre article doit permettre au lecteur de comprendre :
 ### 📄 Format
 
 - Travail **en équipe**
-- Article rédigé à l'aide du **gabarit Typst fourni**
+- Poursuite du **projet Typst commencé avec la proposition**
 - Rédaction et collaboration dans **Typst Web**
 - Remise en format **PDF**
 - Mise en page scientifique en **deux colonnes**
 - **Maximum 6 pages**, références exclues
 
-Le gabarit fourni détermine la mise en page du document. Vous ne devez pas modifier ses paramètres généraux de mise en page.
+👉 Reprenez le même `article.typ` que celui utilisé pour votre proposition et faites-le évoluer vers votre article scientifique final.
+
+Le fichier `style-4a3.typ` détermine la mise en page du document. Vous ne devez pas modifier ses paramètres généraux.
 
 👉 Votre article doit être suffisamment développé pour présenter et justifier votre démarche, vos résultats et leur interprétation, tout en demeurant **clair et concis**.
 
