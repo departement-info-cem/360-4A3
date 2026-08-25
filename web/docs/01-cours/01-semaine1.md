@@ -43,7 +43,7 @@ Vous passerez le reste du temps de cours à travailler en équipe sur votre proj
 
 Chaque membre consignera brièvement son travail et ses prochaines étapes dans son **journal de bord individuel** dans le repo GitHub de l’équipe.
 
-📌 Les consignes et le format du journal sont présentés dans la section [Exploration et cadrage du projet](/cours/semaine2#-journal-de-bord-individuel).
+📌 Les consignes et le format du journal sont présentés dans la section [Journal de bord individuel](/cours/semaine2#-journal-de-bord-individuel).
 :::
 
 ---
@@ -110,13 +110,13 @@ Votre note finale au cours sera composée des évaluations suivantes :
 
 | Évaluation | Individuelle | En équipe |
 |---------------------------------------|:-----------:|:---------:|
-| [Exploration et cadrage du projet](/cours/semaine2) | 10% | |
-| [Proposition de projet](/cours/semaine5) | | 10% |
-| [Présentation du projet proposé](/cours/semaine6) | 10% | |
-| [Développement et analyse](/cours/semaine7) | 15% | |
-| [Article scientifique](/cours/semaine13) | | 25% |
-| [Présentation finale](/cours/semaine14) | 20% | |
-| [Auto-évaluation](/cours/semaine15) | 10% | |
+| [Exploration et cadrage du projet](/cours/semaine2#-grille-dévaluation-individuelle-10) | 10% | |
+| [Proposition de projet](/cours/semaine5#-grille-dévaluation-10) | | 10% |
+| [Présentation du projet proposé](/cours/semaine6#-grille-dévaluation-10) | 10% | |
+| [Développement et analyse](/cours/semaine7#-grille-dévaluation-individuelle-15) | 15% | |
+| [Article scientifique](/cours/semaine13#-grille-dévaluation-25) | | 25% |
+| [Présentation finale](/cours/semaine14#-grille-dévaluation-20) | 20% | |
+| [Auto-évaluation](/cours/semaine15#-grille-dévaluation-10) | 10% | |
 | **Total** | **65%** | **35%** |
 
 Les grilles d’évaluation et les consignes détaillées sont disponibles sur la page de chaque évaluation.
