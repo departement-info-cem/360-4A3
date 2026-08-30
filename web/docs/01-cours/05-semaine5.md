@@ -82,6 +82,8 @@ Présentez :
 - votre **question de recherche principale**
 - une ou deux sous-questions, si nécessaire
 
+👉 Appuyez votre introduction sur **au moins 3 sources distinctes, pertinentes et crédibles**, citées dans le texte. Ces sources doivent notamment servir à situer le problème, présenter ce qui est déjà connu ou justifier la pertinence de votre question de recherche.
+
 👉 Cette section doit permettre de comprendre **pourquoi le projet mérite d’être étudié et ce que vous cherchez à découvrir**.
 
 📌 Référez-vous à [Formuler de bonnes questions de recherche](/methodes/questions-recherche).
@@ -131,6 +133,10 @@ Discutez brièvement :
 
 :::tip-nt
 ### Références
+
+Toutes les sources utilisées dans la proposition doivent être citées dans le texte et apparaître dans la liste des références.
+
+L'introduction doit s'appuyer sur **au moins 3 sources distinctes, pertinentes et crédibles**. Ce nombre constitue un **minimum pour l'introduction** : d'autres références doivent être utilisées lorsque nécessaire pour appuyer les données, la méthodologie ou les autres éléments de votre proposition.
 
 Incluez notamment :
 
@@ -212,7 +218,7 @@ Les références doivent être ajoutées dans `references.bib` et citées dans l
     <tr>
         <td><strong>Références</strong></td>
         <td>
-            Utilise des références pertinentes et les cite correctement.
+            Utilise des sources pertinentes et crédibles pour appuyer la proposition, correctement citées et référencées, dont **au moins 3 sources citées dans l'introduction**.
         </td>
         <td>0</td><td>0,25</td><td>0,5</td><td>0,75</td><td>1</td>
     </tr>

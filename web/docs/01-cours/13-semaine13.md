@@ -99,6 +99,8 @@ Elle doit notamment permettre de comprendre :
 - votre **question de recherche**
 - l'objectif de votre étude
 
+👉 Appuyez votre introduction sur **au moins 3 sources distinctes, pertinentes et crédibles**, citées dans le texte. Ces sources doivent notamment servir à situer le problème, présenter ce qui est déjà connu ou justifier la pertinence de votre question de recherche.
+
 La question de recherche doit être **claire, précise et compatible avec une expérience numérique**.
 
 📌 Référez-vous à [Formuler de bonnes questions de recherche](/methodes/questions-recherche).
@@ -199,6 +201,10 @@ N'introduisez pas de nouveaux résultats dans cette section.
 ## Références
 
 Toutes les sources utilisées doivent être citées dans le texte et apparaître dans la liste des références.
+
+👉 L'introduction doit s'appuyer sur **au moins 3 sources distinctes, pertinentes et crédibles**. Ce nombre constitue un **minimum pour l'introduction et non un nombre de références attendu pour l'ensemble de l'article**.
+
+Utilisez autant de sources que nécessaire pour appuyer adéquatement votre démarche, vos choix méthodologiques et l'interprétation de vos résultats.
 
 Cela comprend notamment :
 
@@ -314,7 +320,7 @@ Un article scientifique doit être **clair, précis et concis**.
     <tr>
         <td><strong>Références</strong></td>
         <td>
-            Utilise des sources pertinentes, correctement citées et référencées.
+            Utilise des sources pertinentes, crédibles et suffisamment nombreuses pour appuyer l'ensemble de l'article, correctement citées et référencées.
         </td>
         <td>0</td><td>0,25</td><td>0,5</td><td>0,75</td><td>1</td>
     </tr>
