@@ -304,7 +304,7 @@ Un article scientifique doit être **clair, précis et concis**.
     <tr>
         <td><strong>Discussion</strong></td>
         <td>
-            Interprète les résultats avec rigueur et considère les limites de l’étude.
+            Interprète les résultats avec rigueur, établit clairement les liens entre l’informatique et la discipline contributrice et considère les limites de l’étude.
         </td>
         <td>0</td><td>1</td><td>2</td><td>3</td><td>4</td>
     </tr>
@@ -330,15 +330,15 @@ Un article scientifique doit être **clair, précis et concis**.
         <td>
             Présente l’information clairement et respecte les conventions d’un article scientifique.
         </td>
-        <td>0</td><td>0,5</td><td>1,5</td><td>2,5</td><td>3</td>
+        <td>0</td><td>0,5</td><td>1</td><td>2</td><td>2,5</td>
     </tr>
-
+    
     <tr>
         <td><strong>Qualité du français écrit</strong></td>
         <td>
             Communique les idées dans un français clair et de qualité.
         </td>
-        <td>0</td><td>0,5</td><td>1</td><td>1,5</td><td>2</td>
+        <td>0</td><td>0,5</td><td>1</td><td>2</td><td>2,5</td>
     </tr>
 
     <tr>

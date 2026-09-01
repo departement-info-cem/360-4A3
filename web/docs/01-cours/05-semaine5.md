@@ -127,6 +127,7 @@ Discutez brièvement :
 - des limites possibles des données ou du modèle
 - des hypothèses importantes
 - des éléments du projet qui pourraient devoir être ajustés
+- (lorsque pertinent) des enjeux éthiques, environnementaux ou des risques associés au projet
 
 👉 Identifier des limites est un **signe de maturité scientifique**, pas une faiblesse.
 :::
