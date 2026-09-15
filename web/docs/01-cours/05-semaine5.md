@@ -92,36 +92,37 @@ Présentez :
 :::tip-nt
 ### 2. Données ou expérience envisagée
 
-Décrivez :
+Présentez ce sur quoi portera votre expérimentation ou votre analyse :
 
-- le **type de données** : réelles ou générées
-- leur provenance, si elles existent déjà
-- ou le principe de la simulation / expérience numérique
-- le volume approximatif
-- les contraintes connues
+* le type de données utilisées ou produites;
+* leur provenance, si elles existent déjà;
+* ou ce qui sera généré ou simulé dans le cadre de l’expérience.
 
-📌 Référez-vous à [Comment évaluer la qualité d’un jeu de données?](/methodes/source-donnees).
+👉 Cette section présente avec quoi vous allez travailler. La façon dont vous comptez procéder sera expliquée dans la méthodologie (prochaine section).
+
+📌 Si votre projet utilise un jeu de données existant, référez-vous à [Comment évaluer la qualité d’un jeu de données?](/methodes/source-donnees).
 :::
 
 :::info-nt
+
 ### 3. Méthodologie prévue
 
-Expliquez :
+Expliquez comment vous comptez procéder pour répondre à votre question de recherche :
 
-- comment vous comptez répondre à la question de recherche
-- les grandes étapes de l’expérience numérique
-- les algorithmes, modèles ou simulations envisagés
-- les paramètres à étudier, si applicable
-- les types d’analyses envisagées
-- les mesures, comparaisons ou visualisations prévues
+* les grandes étapes de votre démarche;
+* les algorithmes, modèles ou simulations envisagés;
+* les paramètres ou variables que vous comptez faire varier ou comparer, si applicable;
+* les analyses, mesures ou visualisations prévues pour interpréter les résultats.
 
-👉 Il n’est **pas nécessaire** de fournir des détails techniques exhaustifs à ce stade.
+👉 Cette section présente ce que vous comptez faire avec vos données ou votre expérience. Il n’est pas nécessaire de fournir des détails techniques exhaustifs à ce stade.
+
 :::
 
 :::warning-nt
+
 ### 4. Faisabilité et limites
 
-Discutez brièvement :
+Identifiez les principales contraintes, limites et incertitudes de votre projet :
 
 - des défis techniques anticipés
 - des limites possibles des données ou du modèle
