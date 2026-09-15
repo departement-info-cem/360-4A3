@@ -92,11 +92,11 @@ Présentez :
 :::tip-nt
 ### 2. Données ou expérience envisagée
 
-Présentez ce sur quoi portera votre expérimentation ou votre analyse :
+Présentez ce que vous utiliserez ou produirez dans le cadre de votre expérimentation ou de votre analyse :
 
-* le type de données utilisées ou produites;
-* leur provenance, si elles existent déjà;
-* ou ce qui sera généré ou simulé dans le cadre de l’expérience.
+- le type de données utilisées ou produites;
+- leur provenance, si elles existent déjà;
+- ou ce qui sera généré ou simulé dans le cadre de l’expérience.
 
 👉 Cette section présente avec quoi vous allez travailler. La façon dont vous comptez procéder sera expliquée dans la méthodologie (prochaine section).
 
@@ -104,31 +104,28 @@ Présentez ce sur quoi portera votre expérimentation ou votre analyse :
 :::
 
 :::info-nt
-
 ### 3. Méthodologie prévue
 
 Expliquez comment vous comptez procéder pour répondre à votre question de recherche :
 
-* les grandes étapes de votre démarche;
-* les algorithmes, modèles ou simulations envisagés;
-* les paramètres ou variables que vous comptez faire varier ou comparer, si applicable;
-* les analyses, mesures ou visualisations prévues pour interpréter les résultats.
+- les grandes étapes de votre démarche;
+- les algorithmes, modèles ou simulations envisagés;
+- les paramètres ou variables que vous comptez faire varier ou comparer, s’il y a lieu;
+- les analyses, mesures ou visualisations prévues pour interpréter les résultats.
 
 👉 Cette section présente ce que vous comptez faire avec vos données ou votre expérience. Il n’est pas nécessaire de fournir des détails techniques exhaustifs à ce stade.
-
 :::
 
 :::warning-nt
-
 ### 4. Faisabilité et limites
 
 Identifiez les principales contraintes, limites et incertitudes de votre projet :
 
-- des défis techniques anticipés
-- des limites possibles des données ou du modèle
-- des hypothèses importantes
-- des éléments du projet qui pourraient devoir être ajustés
-- (lorsque pertinent) des enjeux éthiques, environnementaux ou des risques associés au projet
+- les défis techniques anticipés;
+- les limites possibles des données ou du modèle;
+- les hypothèses importantes;
+- les éléments du projet qui pourraient devoir être ajustés;
+- lorsque pertinent, les enjeux éthiques, environnementaux ou les risques associés au projet.
 
 👉 Identifier des limites est un **signe de maturité scientifique**, pas une faiblesse.
 :::
