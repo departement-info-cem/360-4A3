@@ -83,7 +83,7 @@ Votre présentation doit couvrir :
 ## 💬 Participation aux présentations
 
 :::info-nt
-Chaque personne étudiante doit poser **au moins une question pertinente à une autre équipe** pendant les présentations.
+Chaque étudiant.e doit poser **au moins une question pertinente à une autre équipe** pendant les présentations.
 
 👉 La question doit démontrer une écoute réelle et porter sur le projet présenté : question de recherche, données, démarche, faisabilité, choix méthodologiques, etc.
 :::
