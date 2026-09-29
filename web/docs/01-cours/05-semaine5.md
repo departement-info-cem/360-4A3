@@ -62,7 +62,7 @@ Après la remise de la proposition :
 :::info-nt
 ### 📌 Longueur attendue
 
-- **3 à 5 pages maximum**, références exclues
+- **2 à 4 pages**
 - Qualité > quantité
 - Clarté et rigueur scientifique priorisées
 :::
