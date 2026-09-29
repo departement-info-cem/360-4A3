@@ -3,7 +3,7 @@ title: 📝 Proposition de projet (10%)
 description: Semaine 5
 ---
 
-Cette semaine marque un **jalon important** du cours.
+Cette semaine marque une **étape importante** du cours.
 
 Vous devez remettre une **proposition de projet scientifique**, qui présente clairement :
 
