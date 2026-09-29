@@ -65,8 +65,6 @@ Après la remise de la proposition :
 - **3 à 5 pages maximum**, références exclues
 - Qualité > quantité
 - Clarté et rigueur scientifique priorisées
-
-👉 Un document trop long ou trop vague sera pénalisé.
 :::
 
 ## 🧩 Contenu attendu
